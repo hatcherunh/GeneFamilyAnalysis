@@ -150,7 +150,8 @@ threshold to be satisfied in only one direction).
 4. the directory containing the BLAST results from *doPairwiseBlasts.pl*.
 
 5. a prefix to be used for the output files (see below for a description
-of the output files).
+of the output files), and which is also used as the directory name for a
+directory that is created and where the output files will be placed.
 
 After the fifth argument, either list the genomes you want to analyze
 or say "-all" to indicate you want all the genomes analyzed for which
