@@ -57,6 +57,7 @@ Add execute permission to all the scripts.
 4. Download the single C file (blast/mpiBlast.c), compile it using mpicc
 from MPICH (```mpicc -o mpiBlast mpiBlast.c```), and place the executable
 in a directory that is in your PATH.
+Add execute permission to this file, if necessary.
 
 USER GUIDE
 --
