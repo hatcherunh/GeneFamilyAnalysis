@@ -71,10 +71,10 @@ And you should verify that these two sequences match for each gene.
 
 The sequences should be in FASTA format, with the sequences for each
 genome being in its own file.
-The file name for each amino acid sequence file should be *<genome>.proteins*,
-where *<genome>* is the name of the genome.
-The file name for each nucleotide sequence file should be *<genome>.nuc*,
-where *<genome>* is the name of the genome.
+The file name for each amino acid sequence file should be *[genome].proteins*,
+where *[genome]* is the name of the genome.
+The file name for each nucleotide sequence file should be *[genome].nuc*,
+where *[genome]* is the name of the genome.
 The filenames for the two sequence files for a genome should use the
 same name for the genome.
 
@@ -106,11 +106,17 @@ Put an empty file called *DONE* into this directory.
 
 Run *doPairwiseBlasts.pl*.
 It takes five initial arguments:
+
 1. directory containing protein FASTA files.
+
 2. directory to contain BLAST results.
+
 3. evalue threshold.
+
 4. number of processes MPI should use.
+
 5. machine file MPI should use.
+
 For the remaining arguments, list the genomes you want to process.
 The names you list as arguments must match the names you used for
 the amino acid files.
@@ -128,17 +134,23 @@ For the second run, you only need to list the new genomes.
 
 Run *doAllGenomesAtOnceLeratAnalysis.pl*.
 It takes five initial arguments:
+
 1. "-lerat" (the alternative is "-evalue" which will select homologs based
 upon BLAST hits below a certain evalue threshold, rather than using
 scaled bitscores).
+
 2. homolog selection threshold (for scaled bitscores, a value in the range
 0-1; for "-evalue", an evalue threshold).
+
 3. "-reciprocal" (requires the gene hits to satisfy the threshold requirement
 in both directions; the alternative is "-oneway", which requires the
 threshold to be satisfied in only one direction).
+
 4. the directory containing the BLAST results from *doPairwiseBlasts.pl*.
+
 5. a prefix to be used for the output files (see below for a description
 of the output files).
+
 After the fifth argument, either list the genomes you want to analyze
 or say "-all" to indicate you want all the genomes analyzed for which
 there is BLAST data.
@@ -148,33 +160,36 @@ Gene families are formed by including two genes in a family if they had
 been identified as homologs.
 
 The script will produce a number of output files:
-- *<prefix>*.panorthologs: These are the gene families that have exactly
+- *[prefix]*.panorthologs: These are the gene families that have exactly
 one member from each genome.
-- *<prefix>*.orthologs: These are the gene families that have at most
+- *[prefix]*.orthologs: These are the gene families that have at most
 one member from each genome.
-- *<prefix>*.paralog: These are the gene families with at least two members
+- *[prefix]*.paralog: These are the gene families with at least two members
 from one genome.
-- *<prefix>*.family: All gene families.
-- *<prefix>*.unique: The genes that did not end up in any family.
-- *<prefix>*.paralog-summary: Counts of genes per genome for paralog
+- *[prefix]*.family: All gene families.
+- *[prefix]*.unique: The genes that did not end up in any family.
+- *[prefix]*.paralog-summary: Counts of genes per genome for paralog
 families.
-- *<prefix>*.stats: Interesting statistics about the families.
-- *<prefix>*.hits and <prefix>.reverse: BLAST hit data used to generate the
+- *[prefix]*.stats: Interesting statistics about the families.
+- *[prefix]*.hits and [prefix].reverse: BLAST hit data used to generate the
 families. These are not usually useful.
 
 The files containing gene families have one family per line, with each
 line beginning with a unique numeric family identifier.
-The genes in the family are represented as *<genome>$<geneID>*.
+The genes in the family are represented as *[genome]$[geneID]*.
 
 **Estimate Evolutionary Rates**
 
 Run *doKaKsAnalysis.sh*.
 This script expects three arguments:
+
 1. prefix of the family file to be processed.
+
 2. extension of the family file to be processed.
+
 3. the genome order file.
 
-Therefore, the family file to be processed is *<prefix>.<extension>*.
+Therefore, the family file to be processed is *[prefix].[extension]*.
 
 The genome order file is a file that contains the names of the genomes,
 one genome per line.
@@ -184,23 +199,31 @@ at "../proteins" and that the nucleotide sequence files are available
 at "../nuc".
 
 The script performs the following steps:
+
 1. The amino acid sequences of each family are aligned using ClustalW2.
+
 2. The codon boundaries are used to align the nucleotide sequences.
+
 3. The leading and trailing edges of each amino acid sequence in every family
 is trimmed to generate consensus edges, and then the nucleotide sequences are
 trimmed to match.
+
 4. From this trimmed file, a consensus sequence for the family is found,
 using the *cons* utility from the EMBOSS suite.
+
 5. Each sequence in the family is compared against the consensus sequence
 and the maximum number of amino acid differences for a gene in the family is
 computed.
+
 6. Phylogenetic trees are constructed for each family using DNAML
 (maximum likelihood) in PHYLIP using default settings and the Newick
 formatted trees are saved.
+
 7. dN and dS are calculated from the trimmed nucleic acid alignment and
 the DNAML tree as a guide using codeml in the PAML package].
 Codeml model 0, which allows for a single dN and dS value throughout
 the phylogeny, is used.
+
 8. A CSV (comma-separated value) file is written containing the following
 fields for each family: family identifier, maximum number of amino acid
 differences from the consensus sequence, dN and dS.
@@ -228,5 +251,5 @@ CONTRIBUTORS
 
 The code was written by Phil Hatcher, Jamie Jackson and Sam Vohr.
 Key design ideas were provided by Kelley Thomas and Vaughn Cooper.
-Phil Hatcher (pjh@cs.unh.edu) maintains the code.
+Phil Hatcher (hatcher@unh.edu) maintains the code.
 
