@@ -112,7 +112,7 @@ It takes five initial arguments:
 
 2. directory to contain BLAST results.
 
-3. evalue threshold.
+3. evalue threshold for which hits to keep.
 
 4. number of processes MPI should use.
 
