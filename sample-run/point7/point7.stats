@@ -1,0 +1,32 @@
+date: 15:14:3, Thu Jun 30, 2016
+host: c4.cs.unh.edu
+login: pjh
+technique: -lerat all-at-once
+threshold: .7
+membership: -reciprocal
+cwd: /home/ccluster/pjh/testGFA
+blast results: blast
+genomes: Aliivibrio-salmonicida-LFI1238 Photobacterium-profundum-SS9 Vibrio-cholerae-2740-80 Vibrio-cholerae-M66-2
+count of unique genes for each genome:
+  Photobacterium-profundum-SS9 3838
+  Vibrio-cholerae-2740-80 506
+  Aliivibrio-salmonicida-LFI1238 2157
+  Vibrio-cholerae-M66-2 356
+families: 3615
+genes in families: 10007
+largest family size: 91
+largest family number: 16
+average family size: 2.76818810511757
+count of genes in families for each genome:
+  Photobacterium-profundum-SS9 1653
+  Aliivibrio-salmonicida-LFI1238 1754
+  Vibrio-cholerae-2740-80 3263
+  Vibrio-cholerae-M66-2 3337
+ortholog families: 3350
+panortholog families: 748
+family size histogram:
+  2 to 8: 3587
+  9 to 20: 18
+  21 to 40: 4
+  41 to 80: 4
+  >80: 2

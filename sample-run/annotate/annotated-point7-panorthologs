@@ -1,0 +1,749 @@
+family,size,annotation,Aliivibrio-salmonicida-LFI1238,Photobacterium-profundum-SS9,Vibrio-cholerae-2740-80,Vibrio-cholerae-M66-2
+0,4,VSAL_I1838 thioredoxin reductase [Aliivibrio salmonicida LFI1238],643380137,637585868,EAX58036,643813345
+1,4,VSAL_I0052 threonine dehydratase [Aliivibrio salmonicida LFI1238],643378421,637588293,EAX58543,643812182
+3,4,VSAL_I0007 putative amino-acid ABC transporter permease protein [Aliivibrio salmonicida LFI1238],643378380,637584715,EAX56856,643812164
+4,4,VSAL_I0995 PhoH-like protein [Aliivibrio salmonicida LFI1238],643379383,637587580,EAX57267,643813125
+5,4,VSAL_I0892 prolyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643379293,637587645,EAX60104,643813037
+7,4,VSAL_I1957 arginine/ornithine periplasmic binding protein-dependent transporter ATP-binding component [Aliivibrio salmonicida LFI1238],643380252,637587443,EAX58534,643813991
+8,4,VSAL_I2670 topoisomerase IV subunit B [Aliivibrio salmonicida LFI1238],643380940,637585164,EAX56719,643814570
+10,4,VSAL_I0352 RNA polymerase-associated protein RapA (ATP-dependent helicase hepA) [Aliivibrio salmonicida LFI1238],643378731,637585118,EAX57051,643814651
+15,4,VSAL_I1871 electron transport complex protein RnfB [Aliivibrio salmonicida LFI1238],643380170,637587262,EAX58459,643813180
+17,4,VSAL_II0781 molybdenum transport system permease protein ModB [Aliivibrio salmonicida LFI1238],643382050,637589670,EAX60194,643815785
+19,4,VSAL_I1962 exodeoxyribonuclease III [Aliivibrio salmonicida LFI1238],643380257,637587438,EAX58540,643813987
+20,4,VSAL_I1861 sodium/proton antiporter [Aliivibrio salmonicida LFI1238],643380160,637587277,EAX58478,643813169
+24,4,VSAL_I0685 amino-acid acetyltransferase [Aliivibrio salmonicida LFI1238],643379084,637587697,EAX59621,643814458
+25,4,VSAL_I2694 O-sialoglycoprotein endopeptidase (glycoprotease) [Aliivibrio salmonicida LFI1238],643380964,637585143,EAX57593,643812675
+28,4,VSAL_I1831 uridine phosphorylase [Aliivibrio salmonicida LFI1238],643380133,637585930,EAX58444,643813198
+29,4,VSAL_I2758 argininosuccinate synthase [Aliivibrio salmonicida LFI1238],643381027,637584977,EAX57903,643814784
+30,4,VSAL_I0952 Na+-translocating NADH-quinone reductase subunit D [Aliivibrio salmonicida LFI1238],643379344,637585535,EAX59643,643814434
+33,4,VSAL_I0975 xanthine phosphoribosyltransferase (xanthine-guanin phosphoribosyltransferase) [Aliivibrio salmonicida LFI1238],643379363,637585545,EAX59651,643814419
+34,4,VSAL_II0579 pyruvate kinase II [Aliivibrio salmonicida LFI1238],643381866,637587133,EAX57413,643814134
+35,4,VSAL_I2336 flagellar basal-body rod protein FlgD [Aliivibrio salmonicida LFI1238],643380609,637585612,EAX59562,643814339
+38,4,VSAL_I2562 glutamate synthase large subunit [Aliivibrio salmonicida LFI1238],643380827,637585251,EAX57659,643814515
+39,4,VSAL_I2375 succinyl-diaminopimelate desuccinylase [Aliivibrio salmonicida LFI1238],643380646,637585553,EAX59021,643814278
+40,4,VSAL_I0556 phosphoglycerate kinase [Aliivibrio salmonicida LFI1238],643378942,637587831,EAX57181,643812657
+42,4,VSAL_I2777 RNA-binding protein Hfq [Aliivibrio salmonicida LFI1238],643381046,637588049,EAX56634,643812514
+43,4,VSAL_I1583 spermidine/putrescine-binding periplasmic protein precursor (SPBP) [Aliivibrio salmonicida LFI1238],643379915,637586562,EAX57346,643813592
+44,4,VSAL_I0695 hypothetical protein [Aliivibrio salmonicida LFI1238],643379094,637587686,EAX57721,643813060
+45,4,VSAL_I2225 orotidine 5'-phosphate decarboxylase [Aliivibrio salmonicida LFI1238],643380507,637587148,EAX56900,643814039
+46,4,VSAL_I0385 glucose-6-phosphate isomerase [Aliivibrio salmonicida LFI1238],643378762,637588027,EAX57323,643812541
+47,4,VSAL_II0477 peptide transport system permease protein SapC [Aliivibrio salmonicida LFI1238],643381769,637587145,EAX58847,643813830
+48,4,VSAL_I0848 succinyl-CoA synthetase beta chain [Aliivibrio salmonicida LFI1238],643379252,637585759,EAX58890,643814212
+50,4,VSAL_I0018 10 kDa chaperonin 1 [Aliivibrio salmonicida LFI1238],643378390,637588087,EAX57373,643814807
+51,4,VSAL_I2121 phosphate import ABC transporter ATP-binding protein [Aliivibrio salmonicida LFI1238],643380405,637586100,EAX57623,643815192
+53,4,VSAL_I0519 aspartate carbamoyltransferase catalytic subunit [Aliivibrio salmonicida LFI1238],643378897,637585183,EAX57055,643814655
+55,4,VSAL_I2799 hypothetical tRNA/rRNA methyltransferase [Aliivibrio salmonicida LFI1238],643381078,637584938,EAX59211,643814837
+57,4,VSAL_II0735 lipid A export ATP-binding/permease protein MsbA [Aliivibrio salmonicida LFI1238],643382009,637587089,EAX58523,643814006
+61,4,VSAL_I0356 hypothetical protein [Aliivibrio salmonicida LFI1238],643378735,637585098,EAX57486,643812602
+62,4,VSAL_I0332 50S ribosomal protein L5 [Aliivibrio salmonicida LFI1238],643378709,637585041,EAX56577,643814727
+67,4,VSAL_I1566 diheme cytochrome c [Aliivibrio salmonicida LFI1238],643379898,637586541,EAX57814,643813606
+68,4,VSAL_I1966 putative pyridoxal-phosphate dependent enzyme [Aliivibrio salmonicida LFI1238],643380263,637585678,EAX58754,643813225
+72,4,VSAL_I1985 torCAD operon transcriptional regulatory protein TorR [Aliivibrio salmonicida LFI1238],643380282,637586206,EAX59983,643813865
+73,4,VSAL_I0096 binding-protein-dependent transport systeminner membrane component [Aliivibrio salmonicida LFI1238],643378489,637584809,EAX58277,643812342
+74,4,VSAL_I2616 carbonic anhydrase 2 [Aliivibrio salmonicida LFI1238],643380890,637587879,EAX57235,643812748
+75,4,VSAL_I1948 oligopeptide transport system permease protein C [Aliivibrio salmonicida LFI1238],643380243,637585842,EAX58732,643813257
+77,4,VSAL_I1563 cytochrome c oxidase subunit 1 [Aliivibrio salmonicida LFI1238],643379895,637586538,EAX57813,643813609
+78,4,VSAL_I0584 dihydrodipicolinate reductase [Aliivibrio salmonicida LFI1238],643378969,637585304,EAX57214,643814532
+80,4,VSAL_I0192 DNA repair protein RadC [Aliivibrio salmonicida LFI1238],643378577,637584911,EAX56595,643812374
+81,4,VSAL_I2470 chaperone protein DnaJ [Aliivibrio salmonicida LFI1238],643380736,637585407,EAX60085,643813018
+83,4,VSAL_I2785 phosphatidylserine decarboxylase proenzyme [Aliivibrio salmonicida LFI1238],643381064,637588071,EAX56756,643812498
+84,4,VSAL_I0557 fructose-bisphosphate aldolase class II [Aliivibrio salmonicida LFI1238],643378943,637587830,EAX57195,643812658
+86,4,VSAL_I2413 ribonuclease HII [Aliivibrio salmonicida LFI1238],643380683,637587655,EAX59539,643814388
+87,4,VSAL_I1859 putative glutaredoxin [Aliivibrio salmonicida LFI1238],643380158,637587278,EAX56559,643814172
+89,4,VSAL_I2927 33 kda chaperonin (heat shock protein 33) [Aliivibrio salmonicida LFI1238],643381206,637588182,EAX59180,643814876
+90,4,VSAL_I0729 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase [Aliivibrio salmonicida LFI1238],643379129,637585472,EAX56888,643812924
+91,4,VSAL_I1731 integration host factor alpha-subunit (IHF-alpha) [Aliivibrio salmonicida LFI1238],643380046,637586859,EAX56783,643813389
+92,4,VSAL_I1469 putative plasmid stabilisation system protein [Aliivibrio salmonicida LFI1238],643379811,637589524,EAX59363,643815510
+93,4,VSAL_I1160 putative NAD-or NADP-dependent oxidoreductase [Aliivibrio salmonicida LFI1238],643379538,637587182,EAX58750,643813223
+94,4,VSAL_I2618 hypoxanthine phosphoribosyltransferase [Aliivibrio salmonicida LFI1238],643380892,637587880,EAX57234,643812747
+95,4,VSAL_I0814 chaperone protein HtpG (heat shock protein HtpG) [Aliivibrio salmonicida LFI1238],643379218,637585732,EAX58498,643813149
+97,4,VSAL_II0384 glycerol uptake facilitator protein [Aliivibrio salmonicida LFI1238],643381680,637584958,EAX60205,643815806
+98,4,VSAL_I0688 hypothetical protein [Aliivibrio salmonicida LFI1238],643379087,637587694,EAX59652,643814453
+99,4,VSAL_I2771 sodium-type polar flagellar protein MotX [Aliivibrio salmonicida LFI1238],643381040,637588043,EAX56802,643814744
+100,4,VSAL_I2208 putative PrkA serine protein kinase [Aliivibrio salmonicida LFI1238],643380490,637587306,EAX58508,643813999
+101,4,VSAL_I1065 cell division topological specificity factor [Aliivibrio salmonicida LFI1238],643379452,637585786,EAX57597,643814089
+102,4,VSAL_I0383 alanine racemase [Aliivibrio salmonicida LFI1238],643378760,637588029,EAX57320,643812539
+104,4,VSAL_I2615 ABC transporter ATP-binding protein [Aliivibrio salmonicida LFI1238],643380889,637587878,EAX57254,643812751
+105,4,VSAL_I1146 acyl-CoA thioester hydrolase (p14 protein) [Aliivibrio salmonicida LFI1238],643379525,637587208,EAX58827,643813847
+106,4,VSAL_I0921 putative rib operon regulator RibX [Aliivibrio salmonicida LFI1238],643379315,637585505,EAX59657,643814414
+107,4,VSAL_I0226 integral membrane protein [Aliivibrio salmonicida LFI1238],643378608,637588204,EAX59225,643814847
+108,4,VSAL_I2994 integral membrane protein [Aliivibrio salmonicida LFI1238],643381271,637584823,EAX58170,643812241
+109,4,VSAL_I1959 arginine/ornithine periplasmic binding protein-dependent transporter inner membrane component [Aliivibrio salmonicida LFI1238],643380254,637587441,EAX58529,643813989
+110,4,VSAL_I2866 DNA-directed RNA polymerase beta-subunit [Aliivibrio salmonicida LFI1238],643381139,637588130,EAX57278,643812487
+112,4,VSAL_I2110 arginyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643380395,637585773,EAX58877,643814201
+118,4,VSAL_I0233 oxygen-independent coproporphyrinogen III oxidase [Aliivibrio salmonicida LFI1238],643378618,637588195,EAX58097,643812276
+124,4,VSAL_II0039 4-alpha-glucanotransferase [Aliivibrio salmonicida LFI1238],643381369,637589651,EAX59841,643815138
+128,4,VSAL_II0836 2-amino-3-ketobutyrate coenzyme A ligase [Aliivibrio salmonicida LFI1238],643382107,637586438,EAX59378,643815949
+129,4,VSAL_I2207 hypothetical protein [Aliivibrio salmonicida LFI1238],643380489,637587307,EAX58541,643814000
+132,4,VSAL_I2310 sigma-54 dependent response regulator [Aliivibrio salmonicida LFI1238],643380587,637585630,EAX59044,643814261
+133,4,VSAL_I0403 sulfite reductase [NADPH] hemoprotein beta-component [Aliivibrio salmonicida LFI1238],643378779,637588019,EAX57314,643812552
+134,4,VSAL_I0548 glutathione synthetase [Aliivibrio salmonicida LFI1238],643378934,637587838,EAX57543,643812648
+136,4,VSAL_I0495 ATP/GTP-binding protein [Aliivibrio salmonicida LFI1238],643378875,637587958,EAX56796,643814676
+138,4,VSAL_I0355 integral membrane transport protein [Aliivibrio salmonicida LFI1238],643378734,637585097,EAX57495,643812601
+139,4,VSAL_I0088 hypothetical protein [Aliivibrio salmonicida LFI1238],643378477,637584795,EAX56995,643812328
+142,4,VSAL_II0764 glycine cleavage system H protein [Aliivibrio salmonicida LFI1238],643382036,637589645,EAX58703,643815392
+143,4,VSAL_I1709 hypothetical protein [Aliivibrio salmonicida LFI1238],643380028,637586898,EAX57835,643813520
+144,4,VSAL_I0346 fructose-16-bisphosphatase [Aliivibrio salmonicida LFI1238],643378724,637585093,EAX57961,643814688
+145,4,VSAL_I2057 general L-amino acid-binding periplasmic protein precursor [Aliivibrio salmonicida LFI1238],643380344,637586889,EAX57831,643813528
+146,4,VSAL_I2385 putative arsenate reductase [Aliivibrio salmonicida LFI1238],643380656,637587604,EAX59030,643814291
+149,4,VSAL_I0627 elongation factor G (EF-G) [Aliivibrio salmonicida LFI1238],643379014,637585943,EAX59600,643814484
+151,4,VSAL_I0537 oxygen-independent coproporphyrinogen III oxidase-like protein [Aliivibrio salmonicida LFI1238],643378923,637587849,EAX57541,643812635
+154,4,VSAL_I1137 imidazole glycerol phosphate synthase subunit HisH (imidazole glycerol synthase glutamine amidotransferase subunit) [Aliivibrio salmonicida LFI1238],643379516,637585797,EAX58408,643813300
+155,4,VSAL_I2585 phosphoglucomutase/phosphomannomutase [Aliivibrio salmonicida LFI1238],643380853,637585225,EAX57884,643812771
+159,4,VSAL_I0631 putative AMP-binding acetyl-CoA synthetase [Aliivibrio salmonicida LFI1238],643379018,637588822,EAX59603,643814483
+160,4,VSAL_I2697 RNA polymerase sigma factor RpoD (sigma-70) [Aliivibrio salmonicida LFI1238],643380967,637585139,EAX56696,643812671
+161,4,VSAL_I0528 putative permease [Aliivibrio salmonicida LFI1238],643378906,637585195,EAX56709,643814644
+162,4,VSAL_I0190 50S ribosomal protein L33 [Aliivibrio salmonicida LFI1238],643378575,637584913,EAX59448,643812376
+163,4,VSAL_I1145 hypothetical protein [Aliivibrio salmonicida LFI1238],643379524,637587209,EAX58845,643813848
+164,4,VSAL_I2983 thiamine biosynthesis protein ThiC [Aliivibrio salmonicida LFI1238],643381260,637584815,EAX58162,643812221
+165,4,VSAL_II0671 ABC-type multidrug efflux pump ATP-binding component [Aliivibrio salmonicida LFI1238],643381950,637588567,EAX58826,643816057
+168,4,VSAL_I1549 dihydroorotate dehydrogenase [Aliivibrio salmonicida LFI1238],643379881,637586476,EAX57691,643813645
+169,4,VSAL_I0386 putative chemotaxis protein [Aliivibrio salmonicida LFI1238],643378763,637588026,EAX57327,643812544
+171,4,VSAL_I2837 ribosomal protein L11 methyltransferase [Aliivibrio salmonicida LFI1238],643381114,637588107,EAX59498,643812444
+173,4,VSAL_I1343 L-serine dehydratase 1 [Aliivibrio salmonicida LFI1238],643379701,637587116,EAX59283,643813466
+175,4,VSAL_I1955 formate acetyltransferase 1 [Aliivibrio salmonicida LFI1238],643380250,637587451,EAX58524,643813993
+176,4,VSAL_II0238 glucose-1-phosphate adenylyltransferase [Aliivibrio salmonicida LFI1238],643381546,637588717,EAX59994,643813873
+177,4,VSAL_I2297 polar flagellar assembly protein FliR [Aliivibrio salmonicida LFI1238],643380575,637585642,EAX58995,643814248
+183,4,VSAL_I0447 UvrABC system protein A [Aliivibrio salmonicida LFI1238],643378831,637587989,EAX58226,643812566
+184,4,VSAL_I2740 ATP-dependent protease HslV (heat shock protein HslV) [Aliivibrio salmonicida LFI1238],643381009,637584963,EAX57351,643814817
+186,4,VSAL_I0335 50E ribosomal protein L6 [Aliivibrio salmonicida LFI1238],643378712,637585044,EAX56649,643814724
+187,4,VSAL_I0306 putative DNA-binding protein [Aliivibrio salmonicida LFI1238],643378685,637585018,EAX56921,643812522
+190,4,VSAL_II0894 PTS system IIBC component [Aliivibrio salmonicida LFI1238],643382162,637587416,EAX59982,643813953
+193,4,VSAL_I1281 sodium/dicarboxylate symporter [Aliivibrio salmonicida LFI1238],643379645,637585876,EAX58977,643815206
+195,4,VSAL_I1849 glyceraldehydes-3-phosphate dehydrogenase [Aliivibrio salmonicida LFI1238],643380148,637587303,EAX57422,643814126
+198,4,VSAL_I0095 transport protein extracellular solute-binding protein [Aliivibrio salmonicida LFI1238],643378488,637584808,EAX58279,643812341
+199,4,VSAL_I2298 polar flagellar assembly protein FliP [Aliivibrio salmonicida LFI1238],643380576,637585641,EAX58997,643814249
+201,4,VSAL_I0829 N-acetylglucosamine repressor [Aliivibrio salmonicida LFI1238],643379233,637585738,EAX58499,643813157
+202,4,VSAL_II0038 maltodextrin phosphorylase [Aliivibrio salmonicida LFI1238],643381368,637589652,EAX59887,643815137
+204,4,VSAL_I2921 general secretion pathway protein G [Aliivibrio salmonicida LFI1238],643381200,637588176,EAX59228,643814870
+205,4,VSAL_I1960 arginine/ornithine periplasmic binding protein-dependent transporter inner membrane component [Aliivibrio salmonicida LFI1238],643380255,637587440,EAX58519,643813988
+206,4,VSAL_I1958 arginine/ornithine periplasmic binding protein-dependent transporter [Aliivibrio salmonicida LFI1238],643380253,637587442,EAX58512,643813990
+207,4,VSAL_I2113 phosphate acetyltransferase [Aliivibrio salmonicida LFI1238],643380398,637587500,EAX58764,643813261
+209,4,VSAL_I2788 fumarate reductase complex flavoprotein subunit [Aliivibrio salmonicida LFI1238],643381067,637588077,EAX57934,643814798
+210,4,VSAL_I2813 PTS system mannitol-specific EIICBA component [Aliivibrio salmonicida LFI1238],643381090,637588675,EAX58641,643816105
+211,4,VSAL_I2392 putative amidotransferase [Aliivibrio salmonicida LFI1238],643380663,637587613,EAX59519,643814371
+213,4,VSAL_I2976 Trk system potassium uptake protein TrkH [Aliivibrio salmonicida LFI1238],643381251,637584775,EAX57134,643814901
+214,4,VSAL_I0986 hypothetical protein [Aliivibrio salmonicida LFI1238],643379374,637587590,EAX57269,643813115
+216,4,VSAL_I0375 3-isopropylmalate dehydratase large subunit [Aliivibrio salmonicida LFI1238],643378753,637585126,EAX57520,643814630
+217,4,VSAL_I0322 50S ribosomal protein L23 [Aliivibrio salmonicida LFI1238],643378699,637585031,EAX56674,643814737
+218,4,VSAL_I2119 phosphate ABC transporter inner membrane component [Aliivibrio salmonicida LFI1238],643380403,637586102,EAX57624,643815190
+221,4,VSAL_I2558 response regulator aerobic respiration control protein ArcA [Aliivibrio salmonicida LFI1238],643380824,637585256,EAX57651,643814510
+223,4,VSAL_I2713 hybrid peroxiredoxin (thioredoxin reductase) [Aliivibrio salmonicida LFI1238],643380983,637584981,EAX57902,643814779
+225,4,VSAL_I0072 Trk system potassium uptake protein TrkA [Aliivibrio salmonicida LFI1238],643378435,637588279,EAX58579,643812198
+228,4,VSAL_I0382 replicative DNA helicase [Aliivibrio salmonicida LFI1238],643378759,637588030,EAX57312,643812538
+229,4,VSAL_I1878 molybdenum cofactor biosynthesis protein C [Aliivibrio salmonicida LFI1238],643380179,637585834,EAX58450,643813190
+233,4,VSAL_I3063 ATP synthase B chain [Aliivibrio salmonicida LFI1238],643381332,637588305,EAX56809,643814913
+234,4,VSAL_I2750 putative AMP-binding enzyme [Aliivibrio salmonicida LFI1238],643381019,637585133,EAX57518,643814622
+235,4,VSAL_I2286 chemotaxis response regulator protein-glutamate methylesterase [Aliivibrio salmonicida LFI1238],643380564,637585652,EAX58920,643814190
+236,4,VSAL_II0817 proline permease [Aliivibrio salmonicida LFI1238],643382084,637590314,EAX58646,643816131
+237,4,VSAL_I2973 fatty oxidation complex beta subunit 3-ketoacyl-CoA thiolase [Aliivibrio salmonicida LFI1238],643381248,637584772,EAX57132,643814904
+239,4,VSAL_I0953 Na+-translocating NADH-quinone reductase subunit E [Aliivibrio salmonicida LFI1238],643379345,637585536,EAX59648,643814433
+240,4,VSAL_I0733 GTP-binding protein [Aliivibrio salmonicida LFI1238],643379133,637585476,EAX60046,643812928
+241,4,VSAL_I0146 ATP-dependent RNA helicase RhlB [Aliivibrio salmonicida LFI1238],643378537,637588240,EAX57224,643812456
+242,4,VSAL_I2213 ATP-dependent Clp protease adaptor protein ClpS [Aliivibrio salmonicida LFI1238],643380496,637585860,EAX58392,643813307
+243,4,VSAL_I0760 ribosomal protein S6 modification protein [Aliivibrio salmonicida LFI1238],643379159,637588085,EAX59615,643814423
+244,4,VSAL_I0360 octaprenyl-diphosphate synthase [Aliivibrio salmonicida LFI1238],643378738,637585102,EAX57489,643812606
+245,4,VSAL_I2197 tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase [Aliivibrio salmonicida LFI1238],643380479,637585856,EAX58426,643813292
+247,4,VSAL_I0597 transcription elongation protein NusA [Aliivibrio salmonicida LFI1238],643378984,637585320,EAX57996,643812804
+249,4,VSAL_I0750 phosphoribosylformylglycinamidine synthase [Aliivibrio salmonicida LFI1238],643379149,637585497,EAX60077,643813031
+252,4,VSAL_I1133 ATP phosphoribosyltransferase [Aliivibrio salmonicida LFI1238],643379512,637585801,EAX58391,643813296
+253,4,VSAL_I1759 translation initiation factor IF-3 [Aliivibrio salmonicida LFI1238],643380068,637586863,EAX56912,643815403
+255,4,VSAL_I2578 ABC-type [(GlcNAc)2] transporter permease protein [Aliivibrio salmonicida LFI1238],643380846,637585232,EAX57883,643812778
+256,4,VSAL_I2546 small-conductance mechanosensitive channel [Aliivibrio salmonicida LFI1238],643380811,637587829,EAX57182,643812660
+257,4,VSAL_I0619 deoxyribose-phosphate aldolase [Aliivibrio salmonicida LFI1238],643379007,637585339,EAX57018,643814492
+258,4,VSAL_II0624 NAD(P) transhydrogenase subunit beta (pyridine nucleotid transhydrogenase subunit beta) [Aliivibrio salmonicida LFI1238],643381909,637589226,EAX57108,643815625
+259,4,VSAL_I0549 hypothetical protein [Aliivibrio salmonicida LFI1238],643378935,637587837,EAX57563,643812649
+260,4,VSAL_I0148 transcription termination factor rho [Aliivibrio salmonicida LFI1238],643378539,637588238,EAX57222,643812458
+261,4,VSAL_I1454 formate dehydrogenase iron-sulfur subunit [Aliivibrio salmonicida LFI1238],643379800,637586568,EAX58588,643813665
+263,4,VSAL_I0506 toluene tolerance protein Ttg2B [Aliivibrio salmonicida LFI1238],643378886,637587947,EAX56904,643814664
+267,4,VSAL_I0982 penicillin-binding protein 5 precursor (D-alanyl-D-alanin carboxypeptidase fraction A) [Aliivibrio salmonicida LFI1238],643379370,637587594,EAX57264,643813111
+269,4,VSAL_I2505 putative phosphatidyltransferase [Aliivibrio salmonicida LFI1238],643380769,637586822,EAX56827,643813815
+271,4,VSAL_I0377 2-isopropylmalate synthase [Aliivibrio salmonicida LFI1238],643378755,637585128,EAX57507,643814628
+273,4,VSAL_I0073 ribosomal RNA small subunit methyltransferase B [Aliivibrio salmonicida LFI1238],643378436,637588278,EAX58577,643812199
+276,4,VSAL_I2514 enolase [Aliivibrio salmonicida LFI1238],643380778,637587780,EAX56617,643814586
+278,4,VSAL_I2428 methionine aminopeptidase [Aliivibrio salmonicida LFI1238],643380698,637587670,EAX59585,643814403
+279,4,VSAL_I2610 pantoate--beta-alanine ligase [Aliivibrio salmonicida LFI1238],643380885,637587876,EAX57243,643812753
+281,4,VSAL_I2588 iron(III) ABC transporter periplasmic iron-compound-binding protein [Aliivibrio salmonicida LFI1238],643380856,637587884,EAX57901,643812768
+282,4,VSAL_I0936 sodium-driven polar flagellar protein MotA [Aliivibrio salmonicida LFI1238],643379329,637585517,EAX57711,643813054
+283,4,VSAL_I2389 uracil phosphoribosyltransferase [Aliivibrio salmonicida LFI1238],643380660,637587610,EAX59574,643814367
+284,4,VSAL_I1329 asparaginyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643379689,637587039,EAX59252,643813463
+285,4,VSAL_I2676 bifunctional protein HldE [Aliivibrio salmonicida LFI1238],643380946,637585158,EAX57040,643814576
+286,4,VSAL_I2818 glyceraldehyde 3-phosphate dehydrogenase [Aliivibrio salmonicida LFI1238],643381095,637586912,EAX58739,643813234
+289,4,VSAL_I2947 ferritin-1 [Aliivibrio salmonicida LFI1238],643381225,637584835,EAX58191,643812238
+293,4,VSAL_I0926 N utilization substance protein B (protein NusB) [Aliivibrio salmonicida LFI1238],643379320,637585510,EAX59611,643814409
+295,4,VSAL_I0566 lysyl-tRNA synthetase heat inducible [Aliivibrio salmonicida LFI1238],643378951,637585279,EAX57983,643812826
+297,4,VSAL_I0204 response regulator homolog OmpR [Aliivibrio salmonicida LFI1238],643378587,637584893,EAX59229,643814854
+300,4,VSAL_II0051 inner membrane protein [Aliivibrio salmonicida LFI1238],643381377,637589152,EAX56863,643815604
+301,4,VSAL_II0837 L-threonine 3-dehydrogenase [Aliivibrio salmonicida LFI1238],643382108,637586439,EAX59419,643815948
+303,4,VSAL_I2419 outer membrane protein assembly factor [Aliivibrio salmonicida LFI1238],643380689,637587661,EAX59550,643814394
+305,4,VSAL_II1011 peptide transporter [Aliivibrio salmonicida LFI1238],643382260,637586236,EAX58362,643815657
+307,4,VSAL_I0562 tyrosine recombinase XerD [Aliivibrio salmonicida LFI1238],643378948,637585275,EAX58220,643814558
+311,4,VSAL_I2793 hypothetical protein [Aliivibrio salmonicida LFI1238],643381072,637588082,EAX57371,643814803
+312,4,VSAL_I2436 S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Aliivibrio salmonicida LFI1238],643380706,637585451,EAX56952,643812904
+314,4,VSAL_I0973 aminoacyl-histidine dipeptidase [Aliivibrio salmonicida LFI1238],643379361,637585542,EAX59655,643814421
+315,4,VSAL_I2429 [protein-PII] uridylyltransferase [Aliivibrio salmonicida LFI1238],643380699,637587671,EAX59595,643814404
+316,4,VSAL_II0664 KHG/KDPG aldolase [Aliivibrio salmonicida LFI1238],643381943,637590054,EAX59474,643812436
+320,4,VSAL_I2789 fumarate reductase complex iron-sulfur protein [Aliivibrio salmonicida LFI1238],643381068,637588078,EAX57359,643814799
+321,4,VSAL_I0949 Na(+)-translocating NADH-ubiquinone reductase subunit A [Aliivibrio salmonicida LFI1238],643379341,637585532,EAX59601,643814437
+324,4,VSAL_I2843 phosphoribosylamine--glycine ligase [Aliivibrio salmonicida LFI1238],643381120,637588118,EAX59505,643812426
+325,4,VSAL_I2922 general secretion pathway protein F [Aliivibrio salmonicida LFI1238],643381201,637588177,EAX59217,643814871
+327,4,VSAL_II0001 oriCII binding protein RctB [Aliivibrio salmonicida LFI1238],643381340,637588313,EAX59848,643815128
+331,4,VSAL_I2339 chemotaxis protein methyltransferase CheR [Aliivibrio salmonicida LFI1238],643380612,637585609,EAX59570,643814342
+332,4,VSAL_I2814 mannitol-1-phosphate 5-dehydrogenase [Aliivibrio salmonicida LFI1238],643381091,637588674,EAX58661,643816106
+334,4,VSAL_II0915 HTH-type transcriptional regulator LysR-family [Aliivibrio salmonicida LFI1238],643382180,637589367,EAX58793,643816052
+335,4,VSAL_I0499 ABC transport protein ATP-binding component [Aliivibrio salmonicida LFI1238],643378879,637587954,EAX56791,643814672
+336,4,VSAL_I0794 2-dehydro-3-deoxyphosphooctonate aldolase [Aliivibrio salmonicida LFI1238],643379199,637587542,EAX58988,643814301
+337,4,VSAL_I0635 alanyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643379022,637587768,EAX57573,643812699
+338,4,VSAL_I2136 carboxynorspermidine decarboxylase [Aliivibrio salmonicida LFI1238],643380418,637586932,EAX56884,643813773
+339,4,VSAL_I2457 response regulator homolog PhoB (phosphate regulon transcriptional regulatory protein) [Aliivibrio salmonicida LFI1238],643380726,637585430,EAX57389,643812884
+342,4,VSAL_I2432 protein-export membrane protein SecF [Aliivibrio salmonicida LFI1238],643380702,637585455,EAX56879,643812909
+343,4,VSAL_I2195 adenylosuccinate lyase (adenylosuccinase) [Aliivibrio salmonicida LFI1238],643380477,637585854,EAX58407,643813290
+346,4,VSAL_I2479 SsrA (tmRNA)-binding protein (small protein B) [Aliivibrio salmonicida LFI1238],643380745,637585399,EAX60123,643813010
+348,4,VSAL_I2534 hypothetical protein [Aliivibrio salmonicida LFI1238],643380798,637587800,EAX57294,643814610
+353,4,VSAL_I0923 riboflavin synthase alpha chain [Aliivibrio salmonicida LFI1238],643379317,637585507,EAX59613,643814412
+359,4,VSAL_I0441 sodium/proton antiporter [Aliivibrio salmonicida LFI1238],643378825,637587994,EAX58240,643812561
+360,4,VSAL_I0361 50S ribosomal protein L21 [Aliivibrio salmonicida LFI1238],643378739,637585103,EAX57488,643812607
+361,4,VSAL_I2964 glycine-tRNA synthetase alpha subunit [Aliivibrio salmonicida LFI1238],643381239,637584765,EAX58565,643812176
+362,4,VSAL_I1322 heat shock protein HtpX membrane associated peptidase [Aliivibrio salmonicida LFI1238],643379682,637587026,EAX56717,643813281
+363,4,VSAL_I2871 transcription antitermination protein NusG [Aliivibrio salmonicida LFI1238],643381144,637588135,EAX56537,643812482
+366,4,VSAL_I0010 DNA polymerase III subunit beta-subunit [Aliivibrio salmonicida LFI1238],643378383,637584718,EAX58576,643812168
+369,4,VSAL_I0844 succinate dehydrogenase flavoprotein subunit [Aliivibrio salmonicida LFI1238],643379248,637585755,EAX58903,643814216
+371,4,VSAL_I0601 30S ribosomal protein S15 [Aliivibrio salmonicida LFI1238],643378989,637585324,EAX57994,643812808
+372,4,VSAL_I0648 signal recognition particle protein [Aliivibrio salmonicida LFI1238],643379043,637587743,EAX57179,643812722
+373,4,VSAL_I1767 DNA gyrase subunit A [Aliivibrio salmonicida LFI1238],643380076,637587157,EAX57525,643813425
+375,4,VSAL_I0925 67-dimethyl-8-ribityllumazine synthase (riboflavin synthase beta chain) [Aliivibrio salmonicida LFI1238],643379319,637585509,EAX59625,643814410
+378,4,VSAL_I0011 DNA replication and repair protein RecF [Aliivibrio salmonicida LFI1238],643378384,637584719,EAX58555,643812169
+379,4,VSAL_I2414 lipid-A-disaccharide synthase [Aliivibrio salmonicida LFI1238],643380684,637587656,EAX59554,643814389
+380,4,VSAL_I2714 transcriptional regulator OxyR LysR family (hydrogen peroxide-inducible genes activator) [Aliivibrio salmonicida LFI1238],643380984,637584982,EAX57930,643814778
+381,4,VSAL_I2778 tRNA delta-2-isopentenylpyrophosphate (IPP) transferase [Aliivibrio salmonicida LFI1238],643381047,637588050,EAX56635,643812513
+382,4,VSAL_I2242 3-oxoacyl-[acyl-carrier-protein] synthase II [Aliivibrio salmonicida LFI1238],643380524,637585906,EAX57426,643814145
+383,4,VSAL_I1135 histidinol-phosphate aminotransferase [Aliivibrio salmonicida LFI1238],643379514,637585799,EAX58401,643813298
+384,4,VSAL_I0605 putative peptidase [Aliivibrio salmonicida LFI1238],643378993,637585328,EAX57991,643812814
+385,4,VSAL_I0045 putative phosphotransferase [Aliivibrio salmonicida LFI1238],643378414,637588286,EAX58554,643812190
+387,4,VSAL_I2996 ubiquinone/menaquinone biosynthesis methyltransferase [Aliivibrio salmonicida LFI1238],643381273,637584825,EAX58185,643812243
+388,4,VSAL_I2729 anthranilate synthase component II (glutamine amido transferase) [Aliivibrio salmonicida LFI1238],643380998,637584997,EAX57740,643814761
+389,4,VSAL_I2218 3-phosphoshikimate 1-carboxyvinyltransferase [Aliivibrio salmonicida LFI1238],643380501,637587154,EAX59988,643813877
+391,4,VSAL_II0386 glycerol-3-phosphate repressor protein [Aliivibrio salmonicida LFI1238],643381682,637584868,EAX59118,643816002
+392,4,VSAL_I2467 ferredoxin [Aliivibrio salmonicida LFI1238],643380734,637585425,EAX57375,643812881
+395,4,VSAL_I0362 50S ribosomal protein L27 [Aliivibrio salmonicida LFI1238],643378740,637585104,EAX57502,643812608
+396,4,VSAL_II0092 PTS system fructose-specific IIBC component [Aliivibrio salmonicida LFI1238],643381418,637586284,EAX59345,643815577
+397,4,VSAL_I0338 50S ribosomal protein L30 [Aliivibrio salmonicida LFI1238],643378715,637585047,EAX56571,643814721
+399,4,VSAL_II0708 histidine ammonia-lyase [Aliivibrio salmonicida LFI1238],643381984,637586877,EAX56960,643813365
+400,4,VSAL_I0526 cytosol aminopeptidase [Aliivibrio salmonicida LFI1238],643378904,637585193,EAX56816,643814646
+401,4,VSAL_I2137 saccharopine dehydrogenase [Aliivibrio salmonicida LFI1238],643380419,637586933,EAX56883,643813774
+402,4,VSAL_I2215 translation initiation factor IF-1 [Aliivibrio salmonicida LFI1238],643380498,637585862,EAX60015,643813882
+404,4,VSAL_I0839 phosphoglucomutase [Aliivibrio salmonicida LFI1238],643379243,637585749,EAX58895,643814222
+406,4,VSAL_I1979 putative transcriptional regulator [Aliivibrio salmonicida LFI1238],643380276,637589167,EAX57105,643813787
+408,4,VSAL_I2438 isocitrate lyase [Aliivibrio salmonicida LFI1238],643380708,637585447,EAX56951,643812901
+410,4,VSAL_I0974 membrane permease [Aliivibrio salmonicida LFI1238],643379362,637585544,EAX59656,643814420
+411,4,VSAL_I1156 hypothetical protein [Aliivibrio salmonicida LFI1238],643379534,637587184,EAX58035,643813341
+412,4,VSAL_I2120 phosphate ABC transporter permease protein [Aliivibrio salmonicida LFI1238],643380404,637586101,EAX57625,643815191
+413,4,VSAL_I0911 putative ATP-dependent helicase [Aliivibrio salmonicida LFI1238],643379307,637585779,EAX56988,643814116
+414,4,VSAL_I1369 D-ribose-binding periplasmic protein precursor RbsB [Aliivibrio salmonicida LFI1238],643379725,637589881,EAX58940,643815248
+418,4,VSAL_I2499 homoserine O-succinyltransferase [Aliivibrio salmonicida LFI1238],643380763,637585078,EAX57483,643813761
+419,4,VSAL_I2652 S-adenosyl-methyltransferase MraW [Aliivibrio salmonicida LFI1238],643380922,637587923,EAX58219,643814550
+421,4,VSAL_I2747 cystathionine gamma-synthase (O-succinylhomoserin (thiol)-lyase) [Aliivibrio salmonicida LFI1238],643381016,637584970,EAX56745,643814825
+422,4,VSAL_I1066 septum site-determining protein MinD (cell division inhibitor MinD) [Aliivibrio salmonicida LFI1238],643379453,637585787,EAX57601,643814088
+426,4,VSAL_I2525 ribonuclease III (RNase III) [Aliivibrio salmonicida LFI1238],643380789,637587790,EAX57288,643814600
+427,4,VSAL_I0938 thiamine biosynthesis protein ThiI [Aliivibrio salmonicida LFI1238],643379331,637585519,EAX57713,643813056
+429,4,VSAL_I0552 S-adenosylmethionine synthetase [Aliivibrio salmonicida LFI1238],643378938,637587834,EAX57562,643812652
+430,4,VSAL_I0634 protein RecA (recombinase A) [Aliivibrio salmonicida LFI1238],643379021,637587769,EAX57571,643812697
+431,4,VSAL_I0996 hypothetical protein [Aliivibrio salmonicida LFI1238],643379384,637587579,EAX57258,643813126
+433,4,VSAL_I1080 amidophosphoribosyltransferase [Aliivibrio salmonicida LFI1238],643379467,637587349,EAX58469,643813168
+435,4,VSAL_I0517 Endoribonuclease L-PSP [Aliivibrio salmonicida LFI1238],643378895,637585179,EAX57054,643814657
+437,4,VSAL_I1872 electron transport complex protein RnfA [Aliivibrio salmonicida LFI1238],643380171,637587261,EAX58435,643813181
+440,4,VSAL_I0493 magnesium transporter [Aliivibrio salmonicida LFI1238],643378873,637587960,EAX57957,643814678
+441,4,VSAL_I0348 probable aromatic acid decarboxylase [Aliivibrio salmonicida LFI1238],643378726,637585095,EAX57936,643814685
+443,4,VSAL_I2701 pyruvate kinase I [Aliivibrio salmonicida LFI1238],643380971,637585137,EAX57183,643812665
+444,4,VSAL_I0542 pyrroline-5-carboxylate reductase [Aliivibrio salmonicida LFI1238],643378928,637587844,EAX57560,643812640
+445,4,VSAL_I1310 hypothetical protein [Aliivibrio salmonicida LFI1238],643379673,637587101,EAX58517,643814020
+447,4,VSAL_I0212 guanosine-3'5'-bisbis(diphosphate) 3'-pyrophosphydrolase [Aliivibrio salmonicida LFI1238],643378595,637584898,EAX59196,643814850
+448,4,VSAL_I2659 stringent starvation protein A [Aliivibrio salmonicida LFI1238],643380929,637587932,EAX57236,643812738
+449,4,VSAL_I2851 uroporphyrinogen decarboxylase [Aliivibrio salmonicida LFI1238],643381128,637588126,EAX57277,643812491
+452,4,VSAL_I1580 spermidine/putrescine transport ATP-binding protein PotA [Aliivibrio salmonicida LFI1238],643379912,637586559,EAX57349,643813595
+453,4,VSAL_I2790 fumarate reductase complex membrane anchor subunit C [Aliivibrio salmonicida LFI1238],643381069,637588079,EAX57367,643814800
+454,4,VSAL_I1382 multidrug resistance protein NorM (sodium/drug antiporter) [Aliivibrio salmonicida LFI1238],643379737,637586884,EAX58598,643813690
+456,4,VSAL_I2744 50S ribosomal protein L31 [Aliivibrio salmonicida LFI1238],643381013,637584967,EAX57363,643814821
+460,4,VSAL_I2681 hypothetical protein [Aliivibrio salmonicida LFI1238],643380951,637585153,EAX57041,643814580
+461,4,VSAL_I2307 polar flagellar motor switch protein FliG [Aliivibrio salmonicida LFI1238],643380585,637585633,EAX58989,643814258
+463,4,VSAL_I2641 cell division protein FtsA [Aliivibrio salmonicida LFI1238],643380911,637587912,EAX58202,643814539
+466,4,VSAL_II0496 glycine cleavage system T protein [Aliivibrio salmonicida LFI1238],643381788,637589641,EAX58705,643815395
+467,4,VSAL_I2735 succinylglutamic semialdehyde dehydrogenase [Aliivibrio salmonicida LFI1238],643381004,637585000,EAX57741,643814758
+468,4,VSAL_I2372 hypothetical protein [Aliivibrio salmonicida LFI1238],643380643,637585556,EAX59014,643814275
+469,4,VSAL_I2822 glucosamine--fructose-6-phosphate aminotransferase [Aliivibrio salmonicida LFI1238],643381099,637588296,EAX57186,643812667
+470,4,VSAL_I2337 flagellar basal-body rod protein FlgC [Aliivibrio salmonicida LFI1238],643380610,637585611,EAX59582,643814340
+472,4,VSAL_I2189 putative ATP-dependent RNA helicase [Aliivibrio salmonicida LFI1238],643380471,637590083,EAX57035,643813573
+473,4,VSAL_I0483 rod shape-determining protein MreB [Aliivibrio salmonicida LFI1238],643378863,637587970,EAX58239,643812587
+474,4,VSAL_I2924 general secretion pathway protein D [Aliivibrio salmonicida LFI1238],643381203,637588179,EAX59203,643814873
+477,4,VSAL_I0585 carbamoyl-phosphate synthase small chain [Aliivibrio salmonicida LFI1238],643378970,637585305,EAX57219,643814531
+479,4,VSAL_I2055 general L-amino acid ABC transporter permease protein [Aliivibrio salmonicida LFI1238],643380342,637586891,EAX57827,643813526
+480,4,VSAL_I1757 50S ribosomal protein L20 [Aliivibrio salmonicida LFI1238],643380066,637586862,EAX56566,643815405
+481,4,VSAL_I2739 ATP-dependent hsl protease ATP-binding subunit HslU (heat shock protein HslU) [Aliivibrio salmonicida LFI1238],643381008,637584962,EAX57369,643814816
+483,4,VSAL_I2334 flagellar basal-body rod protein FlgF [Aliivibrio salmonicida LFI1238],643380607,637585614,EAX59552,643814337
+484,4,VSAL_I2706 acetolactate synthase isozyme III large subunit [Aliivibrio salmonicida LFI1238],643380976,637585134,EAX57515,643814621
+487,4,VSAL_I1873 UvrABS system protein B (excinuclease ABC subunit B) [Aliivibrio salmonicida LFI1238],643380173,637585827,EAX58439,643813183
+490,4,VSAL_I1556 3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase [Aliivibrio salmonicida LFI1238],643379888,637586482,EAX57694,643813637
+492,4,VSAL_I0546 hypothetical protein [Aliivibrio salmonicida LFI1238],643378932,637587840,EAX57558,643812646
+493,4,VSAL_I0194 HTH-type regulatory protein TetR-family [Aliivibrio salmonicida LFI1238],643378579,637584909,EAX56851,643812371
+495,4,VSAL_I2625 pyruvate dehydrogenase E1 component [Aliivibrio salmonicida LFI1238],643380896,637587896,EAX58222,643814553
+496,4,VSAL_I0583 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [Aliivibrio salmonicida LFI1238],643378968,637585303,EAX58078,643812847
+498,4,VSAL_I2521 holo-[acyl-carrier protein] synthase [Aliivibrio salmonicida LFI1238],643380785,637587786,EAX57296,643814596
+504,4,VSAL_I0211 DNA-directed RNA polymerase omega chain [Aliivibrio salmonicida LFI1238],643378594,637584899,EAX59194,643814849
+507,4,VSAL_I0097 binding-protein-dependent transport systeminner membrane component [Aliivibrio salmonicida LFI1238],643378490,637584810,EAX58265,643812343
+509,4,VSAL_I0645 S-ribosylhomocysteine lyase [Aliivibrio salmonicida LFI1238],643379040,637587746,EAX57174,643812719
+514,4,VSAL_I0347 UDP-N-acetylmuramate: L-alanyl-gamma-D-glutamyl-meso-diaminopimelat ligase [Aliivibrio salmonicida LFI1238],643378725,637585094,EAX57949,643814686
+515,4,VSAL_I2084 50S ribosomal protein L25 [Aliivibrio salmonicida LFI1238],643380371,637586243,EAX57094,643813789
+516,4,VSAL_I0511 UDP-N-acetylglucosamine 1-carboxyvinyltransferase [Aliivibrio salmonicida LFI1238],643378891,637587942,EAX57045,643814659
+518,4,VSAL_I1845 thioredoxin 2 [Aliivibrio salmonicida LFI1238],643380144,637590093,EAX60175,643815812
+519,4,VSAL_I0421 sulfate adenylyltransferase subunit 1 [Aliivibrio salmonicida LFI1238],643378797,637588009,EAX57941,643814702
+520,4,VSAL_I2028 putative short-chain alcohol dehydrogenase [Aliivibrio salmonicida LFI1238],643380318,637587126,EAX60007,643813883
+521,4,VSAL_I0324 30S ribosomal protein S19 [Aliivibrio salmonicida LFI1238],643378701,637585033,EAX56676,643814735
+522,4,VSAL_I1887 crossover junction endodeoxyribonuclease RuvC [Aliivibrio salmonicida LFI1238],643380188,637585823,EAX56968,643813974
+523,4,VSAL_II0527 conserved hypothetical protein putative ATPase [Aliivibrio salmonicida LFI1238],643381817,637590164,EAX59066,643815291
+524,4,VSAL_I2527 GTP-binding protein LepA [Aliivibrio salmonicida LFI1238],643380791,637587792,EAX57283,643814602
+525,4,VSAL_I2940 glutamine synthetase [Aliivibrio salmonicida LFI1238],643381218,637588190,EAX59198,643814886
+526,4,VSAL_I0374 3-isopropylmalate dehydratase small subunit [Aliivibrio salmonicida LFI1238],643378752,637585125,EAX57505,643814631
+527,4,VSAL_I0222 DNA helicase II UvrD [Aliivibrio salmonicida LFI1238],643378604,637588211,EAX58286,643812349
+528,4,VSAL_I0596 hypothetical protein [Aliivibrio salmonicida LFI1238],643378983,637585319,EAX57965,643812803
+532,4,VSAL_I2614 ABC transporter integral membrane protein [Aliivibrio salmonicida LFI1238],643380888,637587877,EAX57244,643812752
+533,4,VSAL_I0980 lipoyltransferase (lipoate-protein ligase B) [Aliivibrio salmonicida LFI1238],643379368,637587596,EAX58143,643813108
+534,4,VSAL_I2232 putative sulfate transporter [Aliivibrio salmonicida LFI1238],643380514,637585894,EAX56814,643814157
+535,4,VSAL_I2331 flagellar P-ring protein 2 precursor (basal body P-ring protein 2) [Aliivibrio salmonicida LFI1238],643380604,637585617,EAX59545,643814334
+536,4,VSAL_I2801 glycerol-3-phosphate dehydrogenase [NAD(P)+] [Aliivibrio salmonicida LFI1238],643381080,637584936,EAX57905,643814793
+538,4,VSAL_I2998 probable ubiquinone biosynthesis protein UbiB [Aliivibrio salmonicida LFI1238],643381275,637584827,EAX58165,643812245
+543,4,VSAL_I2313 polar flagellar protein FliS (polar flagellar protein FlaJ) [Aliivibrio salmonicida LFI1238],643380590,637585626,EAX59045,643814264
+544,4,VSAL_II0230 sodium/dicarboxylate symporter [Aliivibrio salmonicida LFI1238],643381539,637590170,EAX59878,643815158
+545,4,VSAL_I2159 aspartate-semialdehyde dehydrogenase [Aliivibrio salmonicida LFI1238],643380445,637587280,EAX57001,643814162
+546,4,VSAL_I0666 chaperone ClpB (heat-shock protein) [Aliivibrio salmonicida LFI1238],643379060,637587719,EAX58075,643812872
+547,4,VSAL_I0639 oxaloacetate decarboxylase 2 subunit alpha [Aliivibrio salmonicida LFI1238],643379034,637587752,EAX57172,643812712
+548,4,VSAL_I0420 sulfate adenylyltransferase subunit 2 [Aliivibrio salmonicida LFI1238],643378796,637588010,EAX57954,643814703
+549,4,VSAL_I2458 recombination associated protein RdgC [Aliivibrio salmonicida LFI1238],643380727,637585427,EAX57387,643812883
+550,4,VSAL_I1150 tryptophan synthase beta chain 1 [Aliivibrio salmonicida LFI1238],643379528,637587191,EAX58040,643813333
+551,4,VSAL_I1585 NAD-dependent deacetylase [Aliivibrio salmonicida LFI1238],643379917,637586566,EAX58620,643813662
+552,4,VSAL_II0669 putative GTP-binding protein [Aliivibrio salmonicida LFI1238],643381948,637589472,EAX59308,643815589
+553,4,VSAL_I2828 putative sodium/solute symporter [Aliivibrio salmonicida LFI1238],643381105,637588096,EAX59197,643814846
+556,4,VSAL_I2869 50S ribosomal protein L1 [Aliivibrio salmonicida LFI1238],643381142,637588133,EAX57272,643812484
+557,4,VSAL_I0419 2'3'-cyclic-nucleotide 2'-phosphodiesterase precursor [Aliivibrio salmonicida LFI1238],643378795,637588012,EAX57942,643814705
+559,4,VSAL_I1164 DNA topoisomerase I (omega protein) [Aliivibrio salmonicida LFI1238],643379542,637587178,EAX59931,643813875
+560,4,VSAL_I1949 oligopeptide transport ATP-binding protein D [Aliivibrio salmonicida LFI1238],643380244,637585843,EAX58738,643813258
+561,4,VSAL_I0224 ATP-dependent DNA helicase RecQ [Aliivibrio salmonicida LFI1238],643378606,637588206,EAX58278,643812354
+562,4,VSAL_I2865 DNA-directed RNA polymerase beta' chain [Aliivibrio salmonicida LFI1238],643381138,637588129,EAX57280,643812488
+564,4,VSAL_I0087 ketol-acid reductoisomerase [Aliivibrio salmonicida LFI1238],643378476,637584794,EAX56993,643812327
+568,4,VSAL_II1105 putative plasmid partition protein [Aliivibrio salmonicida LFI1238],643382341,637590342,EAX59880,643816173
+570,4,VSAL_II0923 acetate kinase [Aliivibrio salmonicida LFI1238],643382187,637588386,EAX58704,643815349
+572,4,VSAL_II0475 peptide transport system ATP-binding protein SapF [Aliivibrio salmonicida LFI1238],643381767,637587147,EAX58835,643813832
+573,4,VSAL_I0497 sigma-54 modulation protein [Aliivibrio salmonicida LFI1238],643378877,637587956,EAX56793,643814674
+574,4,VSAL_I1311 NADH dehydrogenase [Aliivibrio salmonicida LFI1238],643379674,637587100,EAX58521,643814018
+576,4,VSAL_II0385 glycerol kinase [Aliivibrio salmonicida LFI1238],643381681,637584957,EAX60263,643815805
+578,4,VSAL_I1134 histidinol dehydrogenase [Aliivibrio salmonicida LFI1238],643379513,637585800,EAX58413,643813297
+580,4,VSAL_I1071 3-ketoacyl-ACP synthase FabB [Aliivibrio salmonicida LFI1238],643379458,637587359,EAX59023,643814235
+581,4,VSAL_I2838 tRNA-dihydrouridine synthase B [Aliivibrio salmonicida LFI1238],643381115,637588108,EAX59504,643812442
+583,4,VSAL_I2290 RNA polymerase sigma factor for flagellar regulon FliA [Aliivibrio salmonicida LFI1238],643380568,637585648,EAX58908,643814194
+590,4,VSAL_I0993 hemolysin [Aliivibrio salmonicida LFI1238],643379381,637587582,EAX57263,643813123
+593,4,VSAL_I0150 3-octaprenyl-4-hydroxybenzoate carboxy-lyase [Aliivibrio salmonicida LFI1238],643378541,637588236,EAX56731,643812460
+595,4,VSAL_I0100 putative cyclic nucleotide binding protein [Aliivibrio salmonicida LFI1238],643378493,637587219,EAX59254,643813457
+597,4,VSAL_I1769 ribonucleoside-diphosphate reductase 1 alpha chain [Aliivibrio salmonicida LFI1238],643380078,637587160,EAX57524,643813423
+598,4,VSAL_I1006 hypothetical protein [Aliivibrio salmonicida LFI1238],643379392,637587316,EAX58735,643813221
+600,4,VSAL_I1514 FAD dependent oxidoreductase [Aliivibrio salmonicida LFI1238],643379851,637587018,EAX60120,643812971
+601,4,VSAL_I0675 tetrahydrodipicolinate succinylase [Aliivibrio salmonicida LFI1238],643379074,637587705,EAX59604,643814471
+602,4,VSAL_I0503 arabinose 5-phosphate isomerase [Aliivibrio salmonicida LFI1238],643378883,637587950,EAX56905,643814668
+603,4,VSAL_I1388 putative ion transporter [Aliivibrio salmonicida LFI1238],643379743,637584851,EAX60040,643813042
+604,4,VSAL_I2309 flagellar hook-basal body complex protein FliE [Aliivibrio salmonicida LFI1238],643380586,637585631,EAX58979,643814260
+606,4,VSAL_I2653 putative tetrapyrrole methyltransferase [Aliivibrio salmonicida LFI1238],643380923,637587926,EAX57242,643812744
+607,4,VSAL_I0653 phospho-2-dehydro-3-deoxyheptonate aldolaseTyr-sensitive [Aliivibrio salmonicida LFI1238],643379048,637587727,EAX58066,643812857
+608,4,VSAL_I2283 chemotaxis protein CheW [Aliivibrio salmonicida LFI1238],643380561,637585655,EAX58914,643814187
+610,4,VSAL_I2742 HTH-type transcriptional repressor CytR [Aliivibrio salmonicida LFI1238],643381011,637584965,EAX57355,643814819
+612,4,VSAL_I2787 putative lysyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643381066,637588076,EAX57918,643814797
+613,4,VSAL_I2167 putative methyltransferase [Aliivibrio salmonicida LFI1238],643380451,637585676,EAX59022,643814244
+614,4,VSAL_II0607 NH(3)-dependent NAD(+) synthetase [Aliivibrio salmonicida LFI1238],643381894,637589234,EAX59047,643815321
+615,4,VSAL_I0518 aspartate carbamoyltransferase regulatory chain [Aliivibrio salmonicida LFI1238],643378896,637585182,EAX57050,643814656
+617,4,VSAL_II0588 putative lipoprotein [Aliivibrio salmonicida LFI1238],643381875,637588829,EAX57780,643815862
+619,4,VSAL_I2794 6-phosphofructokinase isozyme 1 [Aliivibrio salmonicida LFI1238],643381073,637584943,EAX56742,643814831
+621,4,VSAL_I2452 phosphate import protein ATP-binding component PstB [Aliivibrio salmonicida LFI1238],643380721,637585439,EAX57390,643812891
+622,4,VSAL_I2345 hypothetical protein [Aliivibrio salmonicida LFI1238],643380618,637585603,EAX59579,643814348
+623,4,VSAL_I2412 DNA polymerase III alpha chain [Aliivibrio salmonicida LFI1238],643380682,637587654,EAX59573,643814387
+624,4,VSAL_I0933 1-deoxy-D-xylulose-5-phosphate synthase (1-deoxyxylulose 5-phosphate synthase) [Aliivibrio salmonicida LFI1238],643379326,637585514,EAX57712,643813051
+625,4,VSAL_I2523 DNA repair protein RecO (recombination protein O) [Aliivibrio salmonicida LFI1238],643380787,637587788,EAX57297,643814598
+627,4,VSAL_I1768 3-demethylubiquinone-9 3-methyltransferase [Aliivibrio salmonicida LFI1238],643380077,637587158,EAX57529,643813424
+629,4,VSAL_I2767 23S rRNA (guanosine-2'-O-)-methyltransferase RlmB [Aliivibrio salmonicida LFI1238],643381036,637588039,EAX56591,643814741
+631,4,VSAL_I2435 queuine tRNA-ribosyltransferase (tRNA-guanine transglycosylase) [Aliivibrio salmonicida LFI1238],643380705,637585452,EAX56949,643812906
+633,4,VSAL_I1353 putative multi-drug efflux protein [Aliivibrio salmonicida LFI1238],643379711,637587109,EAX58852,643813821
+634,4,VSAL_I2565 MTA/SAH nucleosidase (5'-methylthioadenosin nucleosidase) (S-adenosylhomocysteine nucleosidase) [Aliivibrio salmonicida LFI1238],643380834,637585247,EAX57645,643814521
+635,4,VSAL_I2643 UDP-N-acetylmuramate--L-alanine ligase [Aliivibrio salmonicida LFI1238],643380913,637587914,EAX58218,643814541
+636,4,VSAL_I0358 arginine repressor [Aliivibrio salmonicida LFI1238],643378736,637585099,EAX57492,643812603
+638,4,VSAL_I0368 dimethyladenosine transferase [Aliivibrio salmonicida LFI1238],643378746,637585111,EAX56639,643812615
+639,4,VSAL_I2522 pyridoxal phosphate biosynthetic protein PdxJ [Aliivibrio salmonicida LFI1238],643380786,637587787,EAX57295,643814597
+640,4,VSAL_I1950 oligopeptide transport ATP-binding protein F [Aliivibrio salmonicida LFI1238],643380245,637585844,EAX58730,643813259
+641,4,VSAL_I1844 seryl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643380143,637585874,EAX57021,643813274
+642,4,VSAL_I1877 molybdenum cofactor biosynthesis protein A [Aliivibrio salmonicida LFI1238],643380178,637585833,EAX58430,643813188
+645,4,VSAL_I0120 glutathione reductase [Aliivibrio salmonicida LFI1238],643378513,637588243,EAX58258,643812345
+649,4,VSAL_I1081 transcriptional regulator AphB [Aliivibrio salmonicida LFI1238],643379468,637587347,EAX58443,643813213
+650,4,VSAL_I0423 adenylylsulfate kinase [Aliivibrio salmonicida LFI1238],643378799,637588007,EAX57937,643814701
+651,4,VSAL_I2230 cob(I)yrinic acid ac-diamide adenosyltransferase (cob(I)alamin adenosyltransferase) (corrinoid adenosyltransferase) [Aliivibrio salmonicida LFI1238],643380512,637585889,EAX58463,643813204
+653,4,VSAL_I0690 cysteine desulfurase [Aliivibrio salmonicida LFI1238],643379089,637587692,EAX59618,643814451
+655,4,VSAL_I2031 HTH-type transcriptional regulator HexR [Aliivibrio salmonicida LFI1238],643380321,637587132,EAX58425,643813312
+656,4,VSAL_I2388 uracil permease [Aliivibrio salmonicida LFI1238],643380659,637587608,EAX59000,643814297
+657,4,VSAL_I0937 sodium-driven polar flagellar protein MotB [Aliivibrio salmonicida LFI1238],643379330,637585518,EAX57715,643813055
+660,4,VSAL_I2395 acyl-coenzyme A dehydrogenase [Aliivibrio salmonicida LFI1238],643380666,637587616,EAX59584,643814373
+661,4,VSAL_I1076 acetyl-coenzyme A carboxylase carboxyl transferase subunit beta [Aliivibrio salmonicida LFI1238],643379463,637587353,EAX58495,643813164
+662,4,VSAL_I0492 protein PmbA (protein TldE) [Aliivibrio salmonicida LFI1238],643378872,637587961,EAX57944,643814679
+663,4,VSAL_I0800 5'-nucleotidase precursor [Aliivibrio salmonicida LFI1238],643379205,637587537,EAX58981,643814300
+665,4,VSAL_I0912 formyltetrahydrofolate deformylase [Aliivibrio salmonicida LFI1238],643379308,637585775,EAX56831,643814118
+666,4,VSAL_I2647 phospho-N-acetylmuramoyl-pentapeptide-transferase [Aliivibrio salmonicida LFI1238],643380917,637587918,EAX58207,643814545
+667,4,VSAL_I0654 T-protein [Aliivibrio salmonicida LFI1238],643379049,637587726,EAX58087,643812858
+669,4,VSAL_I2584 chitobiose phosphorylase (glycosyl transferase) [Aliivibrio salmonicida LFI1238],643380852,637585226,EAX57893,643812772
+671,4,VSAL_I2439 malate synthase A [Aliivibrio salmonicida LFI1238],643380709,637585446,EAX56950,643812899
+672,4,VSAL_I0197 putative RNA binding protein [Aliivibrio salmonicida LFI1238],643378582,637584891,EAX59206,643814856
+673,4,VSAL_I2220 30S ribosomal protein S1 [Aliivibrio salmonicida LFI1238],643380503,637587152,EAX56895,643814043
+674,4,VSAL_I2506 RNA polymerase sigma subunit RpoS (sigma-38) [Aliivibrio salmonicida LFI1238],643380770,637587772,EAX57570,643812688
+677,4,VSAL_I0899 dihydropicolinate synthase [Aliivibrio salmonicida LFI1238],643379298,637586991,EAX59938,643813919
+678,4,VSAL_I3050 23-bisphosphoglycerate-independent phosphoglycerate mutase [Aliivibrio salmonicida LFI1238],643381321,637584933,EAX57271,643812495
+679,4,VSAL_II0521 transaldolase B [Aliivibrio salmonicida LFI1238],643381811,637588371,EAX60218,643815683
+682,4,VSAL_I2141 response regulator VarA [Aliivibrio salmonicida LFI1238],643380427,637586942,EAX56587,643813376
+685,4,VSAL_I0738 GMP synthase [glutamine-hydrolyzing] [Aliivibrio salmonicida LFI1238],643379138,637585490,EAX60142,643812933
+687,4,VSAL_I2693 membrane protein [Aliivibrio salmonicida LFI1238],643380963,637585144,EAX57585,643812677
+688,4,VSAL_I0536 thermolabile glutaminase [Aliivibrio salmonicida LFI1238],643378922,637587851,EAX57561,643812634
+691,4,VSAL_I1075 tRNA pseudouridine synthase A [Aliivibrio salmonicida LFI1238],643379462,637587354,EAX58471,643813163
+692,4,VSAL_I2961 small heat shock protein [Aliivibrio salmonicida LFI1238],643381236,637584762,EAX58571,643812173
+694,4,VSAL_I2834 3-dehydroquinate dehydratase [Aliivibrio salmonicida LFI1238],643381111,637588102,EAX57223,643812448
+697,4,VSAL_I1889 holliday junction ATP-dependent DNA helicase RuvB [Aliivibrio salmonicida LFI1238],643380190,637585826,EAX56969,643813972
+698,4,VSAL_I0833 ferric uptake regulator protein [Aliivibrio salmonicida LFI1238],643379237,637585744,EAX59040,643814232
+699,4,VSAL_I2440 transcriptional regulator putative hydrogen peroxide-inducible regulon activator [Aliivibrio salmonicida LFI1238],643380710,637585445,EAX56953,643812897
+701,4,VSAL_I2800 serine acetyltransferase [Aliivibrio salmonicida LFI1238],643381079,637584937,EAX57931,643814791
+704,4,VSAL_I2531 RNA polymerase sigma-E factor [Aliivibrio salmonicida LFI1238],643380795,637587796,EAX57298,643814606
+706,4,VSAL_I1732 phenylalanyl-tRNA synthetase beta chain [Aliivibrio salmonicida LFI1238],643380047,637586860,EAX56682,643813387
+707,4,VSAL_I0586 carbamoyl-phosphate synthase large chain [Aliivibrio salmonicida LFI1238],643378971,637585306,EAX57220,643814530
+708,4,VSAL_I0321 50S ribosomal protein L4 [Aliivibrio salmonicida LFI1238],643378698,637585030,EAX56677,643814738
+712,4,VSAL_I0498 RNA polymerase sigma-54 factor (sigma-N) [Aliivibrio salmonicida LFI1238],643378878,637587955,EAX56795,643814673
+714,4,VSAL_II1077 L-serine dehydratase [Aliivibrio salmonicida LFI1238],643382318,637588631,EAX60271,643815726
+716,4,VSAL_I1152 anthranilate phosphoribosyltransferase [Aliivibrio salmonicida LFI1238],643379530,637587189,EAX58032,643813335
+718,4,VSAL_I0815 adenylate kinase [Aliivibrio salmonicida LFI1238],643379219,637585733,EAX58468,643813150
+720,4,VSAL_I0404 phosphoadenosine phosphosulfate reductase [Aliivibrio salmonicida LFI1238],643378780,637588018,EAX57318,643812553
+721,4,VSAL_I2390 phosphoribosylformylglycinamidine cyclo-ligase (phosphoribosyl-aminoimidazole synthetase) [Aliivibrio salmonicida LFI1238],643380661,637587611,EAX59532,643814368
+723,4,VSAL_I0074 methionyl-tRNA formyltransferase [Aliivibrio salmonicida LFI1238],643378437,637588277,EAX58550,643812200
+726,4,VSAL_I2466 peptidase [Aliivibrio salmonicida LFI1238],643380733,637585426,EAX57386,643812882
+728,4,VSAL_I0857 anaerobic C4-dicarboxylate transporter DcuC [Aliivibrio salmonicida LFI1238],643379261,637586075,EAX60200,643815725
+730,4,VSAL_I1895 TolQ protein inner membrane component [Aliivibrio salmonicida LFI1238],643380196,637587254,EAX56686,643813966
+731,4,VSAL_I1136 histidine biosynthesis bifunctional protein HisB [includes: histidinol-phosphatase and imidazoleglycerol-phosphate dehydratase] [Aliivibrio salmonicida LFI1238],643379515,637585798,EAX58402,643813299
+733,4,VSAL_I1582 spermidine/putrescine transport system permease protein PotC [Aliivibrio salmonicida LFI1238],643379914,637586561,EAX57339,643813593
+734,4,VSAL_II0765 glycine dehydrogenase (decarboxylating) [Aliivibrio salmonicida LFI1238],643382037,637589646,EAX58717,643815391
+735,4,VSAL_I2842 bifunctional purine biosynthesis protein PurH [Aliivibrio salmonicida LFI1238],643381119,637588117,EAX59495,643812427
+736,4,VSAL_I2416 (3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase [Aliivibrio salmonicida LFI1238],643380686,637587658,EAX59547,643814391
+738,4,VSAL_I2030 glutaredoxin 1 [Aliivibrio salmonicida LFI1238],643380320,637587122,EAX58421,643813310
+744,4,VSAL_I2353 NAD-dependent DNA ligase [Aliivibrio salmonicida LFI1238],643380625,637585576,EAX58473,643813135
+745,4,VSAL_I2910 ATP-dependent DNA helicase RecG [Aliivibrio salmonicida LFI1238],643381189,637584896,EAX59232,643814851
+746,4,VSAL_I0445 aminotransferase class-V [Aliivibrio salmonicida LFI1238],643378829,637587991,EAX58231,643812564
+747,4,VSAL_I0822 DNA-binding protein HU-beta [Aliivibrio salmonicida LFI1238],643379226,637587335,EAX56738,643814047
+748,4,VSAL_I2737 cyclic AMP receptor protein [Aliivibrio salmonicida LFI1238],643381006,637585002,EAX57746,643814756
+749,4,VSAL_I0600 tRNA pseudouridine synthase B [Aliivibrio salmonicida LFI1238],643378987,637585323,EAX57989,643812807
+751,4,VSAL_I2965 glycine-tRNA synthetase beta subunit [Aliivibrio salmonicida LFI1238],643381240,637584764,EAX58545,643812175
+752,4,VSAL_I2364 cytochrome c-type protein NapC [Aliivibrio salmonicida LFI1238],643380636,637585564,EAX60176,643815740
+754,4,VSAL_I2340 chemotaxis protein methyltransferase CheV [Aliivibrio salmonicida LFI1238],643380613,637585608,EAX59537,643814343
+755,4,VSAL_I2939 putative elongation factor Tu GTP binding domain [Aliivibrio salmonicida LFI1238],643381217,637588189,EAX59175,643814884
+756,4,VSAL_I2609 3-methyl-2-oxobutanoate hydroxymethyltransferase [Aliivibrio salmonicida LFI1238],643380884,637587875,EAX57252,643812754
+758,4,VSAL_I2411 acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha [Aliivibrio salmonicida LFI1238],643380681,637587653,EAX59578,643814386
+761,4,VSAL_I3058 ATP synthase epsilon subunit [Aliivibrio salmonicida LFI1238],643381327,637588300,EAX57123,643814908
+762,4,VSAL_I0840 hypothetical protein [Aliivibrio salmonicida LFI1238],643379244,637585751,EAX58876,643814220
+763,4,VSAL_I2690 putative undecaprenyl-diphosphatase (bacitracin resistance protein) [Aliivibrio salmonicida LFI1238],643380960,637585147,EAX57574,643812680
+765,4,VSAL_I1097 aminotransferase [Aliivibrio salmonicida LFI1238],643379483,637587327,EAX57594,643814103
+766,4,VSAL_I2060 hypothetical protein [Aliivibrio salmonicida LFI1238],643380347,637586614,EAX58053,643813359
+768,4,VSAL_I0325 50S ribosomal subunit protein L22 [Aliivibrio salmonicida LFI1238],643378702,637585034,EAX56675,643814734
+772,4,VSAL_I1733 phenylalanyl-tRNA synthetase alpha chain [Aliivibrio salmonicida LFI1238],643380048,637586861,EAX56681,643813386
+773,4,VSAL_I2644 UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [Aliivibrio salmonicida LFI1238],643380914,637587915,EAX58206,643814542
+776,4,VSAL_I0283 triosephosphate isomerase [Aliivibrio salmonicida LFI1238],643378663,637584944,EAX57372,643814812
+777,4,VSAL_II0911 ABC transporter ATP-binding protein [Aliivibrio salmonicida LFI1238],643382176,637586446,EAX58590,643813673
+778,4,VSAL_I2333 flagellar basal-body rod protein FlgG (distal rod protein) [Aliivibrio salmonicida LFI1238],643380606,637585615,EAX59549,643814336
+779,4,VSAL_I2547 hypothetical protein [Aliivibrio salmonicida LFI1238],643380812,637585270,EAX57009,643814497
+780,4,VSAL_I0860 transcriptional activator MetR [Aliivibrio salmonicida LFI1238],643379264,637586087,EAX58831,643813852
+781,4,VSAL_I0006 putative amino-acid ABC transporter ATP-binding protein [Aliivibrio salmonicida LFI1238],643378379,637584714,EAX56853,643812163
+784,4,VSAL_I2144 putative sodium/proton antiporter [Aliivibrio salmonicida LFI1238],643380430,637585792,EAX58394,643813295
+785,4,VSAL_I0294 phosphoribulokinase [Aliivibrio salmonicida LFI1238],643378673,637585004,EAX57743,643814755
+787,4,VSAL_I0555 erythrose-4-phosphate dehydrogenase [Aliivibrio salmonicida LFI1238],643378941,637587832,EAX57187,643812656
+788,4,VSAL_I0210 5'guanylate kinase [Aliivibrio salmonicida LFI1238],643378593,637584900,EAX59188,643814848
+789,4,VSAL_I0573 thymidylate synthase [Aliivibrio salmonicida LFI1238],643378958,637585290,EAX56979,643812837
+790,4,VSAL_II0448 phospho-2-dehydro-3-deoxyheptonate aldolase (DAHP synthetase) phenylalanine repressible [Aliivibrio salmonicida LFI1238],643381741,637589584,EAX58650,643816096
+791,4,VSAL_I0092 ATP-dependent DNA helicase rep [Aliivibrio salmonicida LFI1238],643378481,637584800,EAX58257,643812332
+794,4,VSAL_I0950 Na(+)-translocating NADH-quinone reductase subunit B [Aliivibrio salmonicida LFI1238],643379342,637585533,EAX59614,643814436
+795,4,VSAL_I2928 phosphoenolpyruvate carboxykinase [Aliivibrio salmonicida LFI1238],643381207,637588183,EAX59212,643814878
+797,4,VSAL_I0646 putative transport protein [Aliivibrio salmonicida LFI1238],643379041,637587745,EAX57171,643812720
+798,4,VSAL_I2792 elongation factor P (EF-P) [Aliivibrio salmonicida LFI1238],643381071,637588081,EAX57362,643814802
+799,4,VSAL_I2667 exported serine protease [Aliivibrio salmonicida LFI1238],643380937,637587940,EAX56765,643812728
+800,4,VSAL_I0846 2-oxoglutarate dehydrogenase E1 component [Aliivibrio salmonicida LFI1238],643379250,637585757,EAX58885,643814214
+801,4,VSAL_I2138 putative diaminobutyrate--2-oxoglutarate aminotransferase [Aliivibrio salmonicida LFI1238],643380420,637586934,EAX56882,643813775
+803,4,VSAL_I1470 hypothetical protein [Aliivibrio salmonicida LFI1238],643379812,637589523,EAX59302,643815511
+806,4,VSAL_II0861 adenosylmethionine-8-amino-7-oxononanoate aminotransferase [Aliivibrio salmonicida LFI1238],643382132,637587034,EAX57019,643813275
+807,4,VSAL_I2900 RNA polymerase sigma-32 factor [Aliivibrio salmonicida LFI1238],643381180,637584864,EAX56564,643812309
+808,4,VSAL_I1965 hypothetical protein [Aliivibrio salmonicida LFI1238],643380262,637585677,EAX57844,643813532
+809,4,VSAL_I2226 methionyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643380508,637585877,EAX58458,643813200
+810,4,VSAL_I0954 NADH-uniquinone oxidoreductase subunit F [Aliivibrio salmonicida LFI1238],643379346,637585537,EAX59659,643814432
+811,4,VSAL_I3057 bifunctional protein [includes: UDP-N-acetylglucosamine pyrophosphorylase (N-acetylglucosamine-1-phosphate uridyltransferase); glucosamine-1-phosphate N-acetyltransferase] [Aliivibrio salmonicida LFI1238],643381326,637588298,EAX57128,643814907
+812,4,VSAL_I2285 putative chromosome segregation protein [Aliivibrio salmonicida LFI1238],643380563,637585653,EAX58900,643814189
+813,4,VSAL_I2381 putative peroxiredoxin bcp (thioredoxin reductase (bacterioferritin comigratory protein) [Aliivibrio salmonicida LFI1238],643380652,637587601,EAX59035,643814286
+814,4,VSAL_I0640 oxaloacetate decarboxylase beta subunit [Aliivibrio salmonicida LFI1238],643379035,637587751,EAX57180,643812713
+816,4,VSAL_I1260 hypothetical protein [Aliivibrio salmonicida LFI1238],643379630,637588579,EAX58281,643812364
+818,4,VSAL_II0476 peptide transport system ATP-binding protein SapD [Aliivibrio salmonicida LFI1238],643381768,637587146,EAX58829,643813831
+820,4,VSAL_I2637 preprotein translocase SecA subunit [Aliivibrio salmonicida LFI1238],643380907,637587908,EAX57212,643814535
+821,4,VSAL_I2196 hypothetical protein [Aliivibrio salmonicida LFI1238],643380478,637585855,EAX58403,643813291
+823,4,VSAL_I2949 putative FAD dependent oxidoreductase [Aliivibrio salmonicida LFI1238],643381227,637584838,EAX58164,643812240
+825,4,VSAL_II0860 biotin synthase [Aliivibrio salmonicida LFI1238],643382131,637587033,EAX57026,643813276
+827,4,VSAL_I3001 sec-independent protein translocase protein TatC [Aliivibrio salmonicida LFI1238],643381278,637584830,EAX58194,643812248
+828,4,VSAL_I0602 polyribonucleotide nucleotidyltransferase [Aliivibrio salmonicida LFI1238],643378990,637585325,EAX57981,643812809
+831,4,VSAL_I2567 inner membrane protein [Aliivibrio salmonicida LFI1238],643380836,637585244,EAX57647,643814524
+832,4,VSAL_I0979 lipoyl synthase (lipoic acid synthase) [Aliivibrio salmonicida LFI1238],643379367,637587597,EAX58133,643813107
+835,4,VSAL_I1713 glycerol-3-phosphate transporter [Aliivibrio salmonicida LFI1238],643380031,637584867,EAX58966,643815255
+836,4,VSAL_I0725 nucleoside diphosphate kinase [Aliivibrio salmonicida LFI1238],643379125,637585468,EAX56886,643812921
+838,4,VSAL_I1073 aspartate-semialdehyde dehydrogenase [Aliivibrio salmonicida LFI1238],643379460,637587356,EAX58996,643814233
+844,4,VSAL_II0468 dihydroorotase [Aliivibrio salmonicida LFI1238],643381759,637587108,EAX59140,643815987
+845,4,VSAL_I1886 aspartyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643380187,637585821,EAX56729,643813329
+846,4,VSAL_I3068 chromosome partitioning protein sporulation initiation inhibitor protein Soj [Aliivibrio salmonicida LFI1238],643381337,637588310,EAX56807,643814918
+849,4,VSAL_II0819 proline dehydrogenase [Aliivibrio salmonicida LFI1238],643382086,637590316,EAX58667,643816133
+850,4,VSAL_I2763 50S ribosomal subunit protein L9 [Aliivibrio salmonicida LFI1238],643381032,637588035,EAX57315,643812536
+851,4,VSAL_I0616 putative sodium-dependent nucleoside transporter protein [Aliivibrio salmonicida LFI1238],643379004,637585338,EAX57007,643814494
+853,4,VSAL_I1940 cysteinyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643380238,637585807,EAX56972,643813975
+855,4,VSAL_I2168 chorismate synthase (5-enolpyruvylshikimate-3-phosphat phospholyase) [Aliivibrio salmonicida LFI1238],643380452,637587415,EAX59036,643814242
+858,4,VSAL_I0287 fructose-16-bisphosphatase class II GlpX [Aliivibrio salmonicida LFI1238],643378666,637584949,EAX56739,643814830
+861,4,VSAL_I0042 putative competence protein [Aliivibrio salmonicida LFI1238],643378411,637588289,EAX58572,643812187
+863,4,VSAL_I0376 3-isopropylmalate dehydrogenase [Aliivibrio salmonicida LFI1238],643378754,637585127,EAX57517,643814629
+866,4,VSAL_I0664 ribosomal large subunit pseudouridine synthase D [Aliivibrio salmonicida LFI1238],643379058,637587722,EAX58068,643812870
+869,4,VSAL_I1084 adenine phosphoribosyltransferase [Aliivibrio salmonicida LFI1238],643379471,637585725,EAX58464,643813217
+870,4,VSAL_I1686 phosphoribosylglycinamide formyltransferase 2 [Aliivibrio salmonicida LFI1238],643380009,637586394,EAX56779,643813395
+871,4,VSAL_I0359 malate dehydrogenase [Aliivibrio salmonicida LFI1238],643378737,637585100,EAX57491,643812604
+872,4,VSAL_I1698 phosphoribosylaminoimidazole-succinocarboxamide (SAICAR) synthetase [Aliivibrio salmonicida LFI1238],643380020,637586178,EAX58058,643813353
+874,4,VSAL_I0572 prolipoprotein diacylglyceryl transferase [Aliivibrio salmonicida LFI1238],643378957,637585289,EAX56976,643812836
+875,4,VSAL_I0978 gamma-glutamyl phosphate reductase [Aliivibrio salmonicida LFI1238],643379366,637585549,EAX59649,643814415
+877,4,VSAL_I0575 transcriptional activator protein NhaR (sodium/proton antiporter regulator protein) [Aliivibrio salmonicida LFI1238],643378960,637585294,EAX56975,643812839
+878,4,VSAL_I0722 2Fe-2S ferredoxin [Aliivibrio salmonicida LFI1238],643379122,637585464,EAX56867,643812918
+880,4,VSAL_I2032 pyridoxal-dependent decarboxylase [Aliivibrio salmonicida LFI1238],643380322,637586207,EAX58424,643813313
+885,4,VSAL_I2605 DnaK suppressor protein [Aliivibrio salmonicida LFI1238],643380881,637587871,EAX57165,643812758
+887,4,VSAL_I2893 LexA repressor [Aliivibrio salmonicida LFI1238],643381173,637584874,EAX58161,643812252
+888,4,VSAL_I2293 polar flagellar assembly protein FlhA [Aliivibrio salmonicida LFI1238],643380571,637585645,EAX58922,643814197
+890,4,VSAL_I2023 ABC transporter ATP-binding protein [Aliivibrio salmonicida LFI1238],643380313,637586262,EAX56820,643813779
+891,4,VSAL_II0696 transcription-repair coupling factor [Aliivibrio salmonicida LFI1238],643381974,637587096,EAX58532,643814014
+892,4,VSAL_I2923 general secretion pathway protein E [Aliivibrio salmonicida LFI1238],643381202,637588178,EAX59179,643814872
+894,4,VSAL_I1347 fumarate hydratase class I [Aliivibrio salmonicida LFI1238],643379705,637587112,EAX59238,643813470
+895,4,VSAL_I1392 putative outer membrane protein [Aliivibrio salmonicida LFI1238],643379747,637586456,EAX58627,643813683
+896,4,VSAL_I2275 thiol:disulfide interchange protein DsbE (cytochrome c biogenesis protein CcmG) [Aliivibrio salmonicida LFI1238],643380553,637585662,EAX58891,643814179
+897,4,VSAL_I2277 cytochrome c-type biogenesis protein CcmE (cytochrome c maturation protein E) (heme chaperone CcmE) [Aliivibrio salmonicida LFI1238],643380555,637585660,EAX58882,643814181
+898,4,VSAL_I2783 oligoribonuclease [Aliivibrio salmonicida LFI1238],643381062,637588069,EAX56757,643812500
+899,4,VSAL_I0354 universal stress protein F [Aliivibrio salmonicida LFI1238],643378733,637585096,EAX57503,643812600
+900,4,VSAL_I0122 oligopeptidase A [Aliivibrio salmonicida LFI1238],643378515,637588242,EAX58283,643812347
+902,4,VSAL_I2733 acetylornithine aminotransferase/succinylornithine transaminase [Aliivibrio salmonicida LFI1238],643381002,637584998,EAX57738,643814760
+903,4,VSAL_I3070 glucose inhibited division protein [Aliivibrio salmonicida LFI1238],643381339,637588312,EAX56630,643814920
+904,4,VSAL_I0331 50S ribosomal protein L24 [Aliivibrio salmonicida LFI1238],643378708,637585040,EAX56579,643814728
+907,4,VSAL_I0568 DNA mismatch repair protein MutH [Aliivibrio salmonicida LFI1238],643378953,637585285,EAX57976,643812830
+908,4,VSAL_I2682 putative phosphate transporter [Aliivibrio salmonicida LFI1238],643380952,637585152,EAX57044,643814581
+909,4,VSAL_I2254 putative sodium-dependent transporter [Aliivibrio salmonicida LFI1238],643380536,637586219,EAX57425,643814138
+910,4,VSAL_I2252 PTS system glucose-specific EIIBC component [includes: glucose permease IIC component; glucose-specific phosphotransferase enzyme II component] [Aliivibrio salmonicida LFI1238],643380534,637585912,EAX57427,643814139
+911,4,VSAL_I2295 polar flagellar assembly protein FlhB [Aliivibrio salmonicida LFI1238],643380573,637585644,EAX59032,643814246
+912,4,VSAL_I2623 dihydrolipoamide dehydrogenase [Aliivibrio salmonicida LFI1238],643380895,637587894,EAX58212,643814551
+913,4,VSAL_I2532 L-aspartate oxidase (quinolinate synthetase B) [Aliivibrio salmonicida LFI1238],643380796,637587798,EAX57285,643814608
+917,4,VSAL_I2301 polar flagellar switch protein FliM (flagellar motor switch protein FliM) [Aliivibrio salmonicida LFI1238],643380579,637585639,EAX59027,643814252
+918,4,VSAL_I0698 7-cyano-7-deazaguanine reductase [Aliivibrio salmonicida LFI1238],643379097,637587683,EAX57728,643813063
+919,4,VSAL_I0535 tRNA (guanine-n(7)-)-methyltransferase [Aliivibrio salmonicida LFI1238],643378921,637587852,EAX57542,643812633
+922,4,VSAL_I2511 2-C-methyl-D-erythritol 24-cyclodiphosphate synthase [Aliivibrio salmonicida LFI1238],643380775,637587777,EAX57579,643812683
+924,4,VSAL_I0442 methionine synthase [Aliivibrio salmonicida LFI1238],643378826,637587993,EAX58227,643812562
+925,4,VSAL_I0089 putative integral membrane component of multidrug efflux system [Aliivibrio salmonicida LFI1238],643378478,637584796,EAX56994,643812329
+928,4,VSAL_I2029 putative transport protein [Aliivibrio salmonicida LFI1238],643380319,637587123,EAX58414,643813309
+929,4,VSAL_I2300 polar flagellar switch protein FliN [Aliivibrio salmonicida LFI1238],643380578,637585640,EAX58986,643814251
+931,4,VSAL_I1727 phospho-2-dehydro-3-deoxyheptonate aldolaseTrp-sensitiv [Aliivibrio salmonicida LFI1238],643380042,637586729,EAX58592,643813660
+933,4,VSAL_I0856 hypothetical protein [Aliivibrio salmonicida LFI1238],643379260,637586011,EAX58839,643813857
+934,4,VSAL_I2214 ATP-dependent Clp protease ATP-binding subunit ClpA [Aliivibrio salmonicida LFI1238],643380497,637585861,EAX58390,643813308
+937,4,VSAL_I2705 acetolactate synthase isozyme III small subunit [Aliivibrio salmonicida LFI1238],643380975,637585135,EAX57504,643814620
+938,4,VSAL_I0691 glycine cleavage system transcriptional activator [Aliivibrio salmonicida LFI1238],643379090,637587691,EAX57710,643813057
+939,4,VSAL_I2148 sodium/proton antiporter [Aliivibrio salmonicida LFI1238],643380434,637587310,EAX56774,643814029
+940,4,VSAL_I0847 dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex [Aliivibrio salmonicida LFI1238],643379251,637585758,EAX58881,643814213
+941,4,VSAL_I2944 HTH-type transcriptional regulator AsnC-family [Aliivibrio salmonicida LFI1238],643381222,637588233,EAX58160,643812231
+942,4,VSAL_I2726 ribulose-phosphate 3-epimerase [Aliivibrio salmonicida LFI1238],643380995,637584993,EAX57739,643814767
+943,4,VSAL_I2743 primosomal protein N' [Aliivibrio salmonicida LFI1238],643381012,637584966,EAX57358,643814820
+944,4,VSAL_I0580 isoleucyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643378965,637585300,EAX58062,643812844
+945,4,VSAL_I2839 DNA-binding protein Fis [Aliivibrio salmonicida LFI1238],643381116,637588109,EAX59517,643812441
+948,4,VSAL_I1881 hypothetical protein [Aliivibrio salmonicida LFI1238],643380182,637585815,EAX56611,643813323
+952,4,VSAL_II0395 anaerobic glycerol-3-phosphate dehydrogenase subunit C [Aliivibrio salmonicida LFI1238],643381690,637586079,EAX60234,643815810
+953,4,VSAL_I1334 putative thioesterase [Aliivibrio salmonicida LFI1238],643379694,637590195,EAX59132,643816003
+956,4,VSAL_I1901 quinolinate synthetase A [Aliivibrio salmonicida LFI1238],643380202,637587248,EAX59939,643813960
+958,4,VSAL_I3065 ATP synthase A chain [Aliivibrio salmonicida LFI1238],643381334,637588307,EAX56810,643814915
+960,4,VSAL_I0349 thiamine-binding periplasmic protein precursor [Aliivibrio salmonicida LFI1238],643378728,637585122,EAX57939,643814683
+961,4,VSAL_I1162 hypothetical protein [Aliivibrio salmonicida LFI1238],643379540,637587179,EAX59998,643813876
+963,4,VSAL_I2398 DNA polymerase III epsilon chain [Aliivibrio salmonicida LFI1238],643380669,637587618,EAX59520,643814375
+965,4,VSAL_I1453 formate dehydrogenase [Aliivibrio salmonicida LFI1238],643379799,637586569,EAX58603,643813666
+967,4,VSAL_II0685 6-phosphogluconate dehydrogenase [Aliivibrio salmonicida LFI1238],643381963,637586153,EAX59441,643815960
+968,4,VSAL_I0864 serine hydroxymethyltransferase [Aliivibrio salmonicida LFI1238],643379266,637585504,EAX58155,643813105
+969,4,VSAL_I2660 ubiquinol--cytochrome c reductase cytochrome C1 [Aliivibrio salmonicida LFI1238],643380930,637587933,EAX57240,643812737
+970,4,VSAL_II1002 sodium/proton-dependent alanine carrier protein [Aliivibrio salmonicida LFI1238],643382254,637586154,EAX60089,643812949
+974,4,VSAL_I0719 iron-binding protein IscA (iron-sulfur cluster assembly protein) [Aliivibrio salmonicida LFI1238],643379119,637585461,EAX56868,643812915
+975,4,VSAL_II0280 integral membrane protein [Aliivibrio salmonicida LFI1238],643381582,637589343,EAX58488,643813140
+976,4,VSAL_I0126 diaminopimelate epimerase [Aliivibrio salmonicida LFI1238],643378519,637588220,EAX58112,643812286
+979,4,VSAL_I1571 fumarate and nitrate reduction regulatory protein [Aliivibrio salmonicida LFI1238],643379903,637586545,EAX57329,643813601
+980,4,VSAL_I0721 chaperone protein HscA [Aliivibrio salmonicida LFI1238],643379121,637585463,EAX56869,643812917
+981,4,VSAL_I0984 rod shape-determining protein RodA [Aliivibrio salmonicida LFI1238],643379372,637587592,EAX57260,643813113
+982,4,VSAL_I2572 glutamate-1-semialdehyde 21-aminomutase [Aliivibrio salmonicida LFI1238],643380841,637585238,EAX57897,643812786
+983,4,VSAL_I2626 pyruvate dehydrogenase complex repressor [Aliivibrio salmonicida LFI1238],643380897,637587897,EAX58208,643814554
+986,4,VSAL_I0832 glutaminyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643379236,637585743,EAX58500,643813161
+987,4,VSAL_I0928 phosphatidylglycerophosphatase A [Aliivibrio salmonicida LFI1238],643379322,637585512,EAX59591,643814407
+988,4,VSAL_I2555 homoserine kinase [Aliivibrio salmonicida LFI1238],643380820,637585262,EAX56597,643814505
+989,4,VSAL_I2968 SirA-like protein [Aliivibrio salmonicida LFI1238],643381243,637584769,EAX58587,643812179
+992,4,VSAL_I0604 putative peptidase [Aliivibrio salmonicida LFI1238],643378992,637585327,EAX57990,643812813
+995,4,VSAL_I0830 N-acetylglucosamine-6-phosphate deacetylase [Aliivibrio salmonicida LFI1238],643379234,637585739,EAX58477,643813158
+997,4,VSAL_I0004 ribonuclease P protein component (RNase P protein) [Aliivibrio salmonicida LFI1238],643378377,637584713,EAX56852,643812161
+999,4,VSAL_I2474 probable inorganic polyphosphate/ATP-NAD kinase [Aliivibrio salmonicida LFI1238],643380740,637585404,EAX60116,643813015
+1000,4,VSAL_I2791 fumarate reductase complex membrane anchor subunit D [Aliivibrio salmonicida LFI1238],643381070,637588080,EAX57364,643814801
+1003,4,VSAL_I0718 putative iron-sulphur cluster biosynthesis protein [Aliivibrio salmonicida LFI1238],643379118,637585460,EAX56866,643812914
+1004,4,VSAL_II0021 pyridoxamine 5'-phosphate oxidase [Aliivibrio salmonicida LFI1238],643381354,637590332,EAX59925,643816139
+1005,4,VSAL_II0399 peptidase T [Aliivibrio salmonicida LFI1238],643381694,637586555,EAX59058,643815296
+1010,4,VSAL_II0763 putative DNA-binding protein [Aliivibrio salmonicida LFI1238],643382035,637589643,EAX58698,643815394
+1014,4,VSAL_I0208 outer membrane protein [Aliivibrio salmonicida LFI1238],643378591,637584906,EAX58276,643812367
+1015,4,VSAL_I0827 asparagine synthetase B [Aliivibrio salmonicida LFI1238],643379231,637585736,EAX58492,643813155
+1016,4,VSAL_I2338 flagellar basal-body rod protein FlgB [Aliivibrio salmonicida LFI1238],643380611,637585610,EAX59567,643814341
+1020,4,VSAL_I1953 pyruvate formate-lyase 1 activating enzyme [Aliivibrio salmonicida LFI1238],643380248,637587453,EAX58531,643813996
+1022,4,VSAL_I0544 twitching mobility protein PilT type II/IV secretion system protein [Aliivibrio salmonicida LFI1238],643378930,637587842,EAX57549,643812642
+1024,4,VSAL_I2222 integration host factor beta-subunit [Aliivibrio salmonicida LFI1238],643380504,637587151,EAX56896,643814042
+1026,4,VSAL_II1098 ABC transporter ATP-binding protein [Aliivibrio salmonicida LFI1238],643382335,637588902,EAX59873,643816143
+1027,4,VSAL_I1139 imidazole glycerol phosphate synthase subunit HisF [Aliivibrio salmonicida LFI1238],643379518,637585795,EAX58410,643813302
+1028,4,VSAL_I3064 ATP synthase c chain [Aliivibrio salmonicida LFI1238],643381333,637588306,EAX56811,643814914
+1029,4,VSAL_II0920 maltose transport system permease protein MalG [Aliivibrio salmonicida LFI1238],643382184,637588735,EAX59128,643816005
+1030,4,VSAL_I2563 glutamate synthase small subunit [Aliivibrio salmonicida LFI1238],643380828,637585250,EAX57648,643814516
+1031,4,VSAL_I0598 translation initiation factor IF-2 [Aliivibrio salmonicida LFI1238],643378985,637585321,EAX57985,643812805
+1033,4,VSAL_I0125 diaminopimelate decarboxylase [Aliivibrio salmonicida LFI1238],643378518,637588221,EAX58106,643812285
+1034,4,VSAL_I2434 putative membrane subunit of preprotein translocase [Aliivibrio salmonicida LFI1238],643380704,637585453,EAX56877,643812907
+1036,4,VSAL_I2972 putative zinc-binding alcohol dehydrogenase [Aliivibrio salmonicida LFI1238],643381247,637584771,EAX58584,643812181
+1041,4,VSAL_I2738 OsmC-like protein [Aliivibrio salmonicida LFI1238],643381007,637585003,EAX57688,643815900
+1044,4,VSAL_I0849 succinyl-CoA synthetase alpha chain [Aliivibrio salmonicida LFI1238],643379253,637585760,EAX58921,643814211
+1046,4,VSAL_II0577 PTS system trehalose-specific EIIBC component [Aliivibrio salmonicida LFI1238],643381864,637585933,EAX57724,643813071
+1048,4,VSAL_I2112 acetate kinase [Aliivibrio salmonicida LFI1238],643380397,637587499,EAX58737,643813262
+1049,4,VSAL_I2937 D-tyrosyl-tRNA(tyr) deacylase [Aliivibrio salmonicida LFI1238],643381215,637588186,EAX59181,643814881
+1050,4,VSAL_I1059 nucleoid-associated protein Ndpa [Aliivibrio salmonicida LFI1238],643379447,637587286,EAX57004,643814165
+1051,4,VSAL_I0399 tRNA-dihydrouridine synthase A [Aliivibrio salmonicida LFI1238],643378775,637588024,EAX57305,643812546
+1052,4,VSAL_I2433 protein-export membrane protein SecD [Aliivibrio salmonicida LFI1238],643380703,637585454,EAX56878,643812908
+1053,4,VSAL_I1371 ribose transport ATP-binding protein RbsA [Aliivibrio salmonicida LFI1238],643379727,637589879,EAX58970,643815246
+1058,4,VSAL_I0885 DD-heptose 17-bisphosphate phosphatase [Aliivibrio salmonicida LFI1238],643379286,637587640,EAX57729,643813069
+1061,4,VSAL_II0467 putative aldo/keto reductase [Aliivibrio salmonicida LFI1238],643381758,637585948,EAX59410,643815921
+1063,4,VSAL_II0623 NAD(P) transhydrogenase subunit alpha (pyridin nucleotide transhydrogenase subunit alpha) [Aliivibrio salmonicida LFI1238],643381908,637589225,EAX57109,643815624
+1066,4,VSAL_I1983 HTH-type transcriptional repressor PurR (purine nucleotide synthesis repressor) [Aliivibrio salmonicida LFI1238],643380280,637586814,EAX59951,643813867
+1067,4,VSAL_II0732 3-deoxy-manno-octulosonate cytidylyltransferase [Aliivibrio salmonicida LFI1238],643382006,637587086,EAX58538,643814003
+1069,4,VSAL_I0737a inosine-5'-monophosphate dehydrogenase [Aliivibrio salmonicida LFI1238],643379137,637585489,EAX60148,643812932
+1071,4,VSAL_I2764 30S ribosomal subunit protein S18 [Aliivibrio salmonicida LFI1238],643381033,637588036,EAX57328,643812535
+1073,4,VSAL_I1700 ATP-dependent helicase HrpA [Aliivibrio salmonicida LFI1238],643380022,637586466,EAX57459,643813548
+1075,4,VSAL_I2905 hypothetical protein [Aliivibrio salmonicida LFI1238],643381185,637584860,EAX58098,643812304
+1077,4,VSAL_I2289 chemotaxis protein CheY [Aliivibrio salmonicida LFI1238],643380567,637585649,EAX58918,643814193
+1080,4,VSAL_I0193 coenzyme A biosynthesis bifunctional protein CoaBC [Aliivibrio salmonicida LFI1238],643378578,637584910,EAX56847,643812372
+1081,4,VSAL_I2756 N-acetyl-gamma-glutamyl-phosphate reductase [Aliivibrio salmonicida LFI1238],643381025,637584975,EAX57915,643814786
+1082,4,VSAL_I0886 D-methionine transport ATP-binding protein MetN [Aliivibrio salmonicida LFI1238],643379287,637587641,EAX57720,643813068
+1083,4,VSAL_I2802 protein-export protein SecB [Aliivibrio salmonicida LFI1238],643381081,637584935,EAX57914,643814795
+1084,4,VSAL_I2296 polar flagellar assembly protein FliR [Aliivibrio salmonicida LFI1238],643380574,637585643,EAX59033,643814247
+1085,4,VSAL_I2712 dihydrolipoyl dehydrogenase (dihydrolipoamide dehydrogenase) [Aliivibrio salmonicida LFI1238],643380982,637584980,EAX57925,643814780
+1086,4,VSAL_I1344 serine transporter [Aliivibrio salmonicida LFI1238],643379702,637587115,EAX59241,643813467
+1088,4,VSAL_I1355 cystathionine beta-lyase [Aliivibrio salmonicida LFI1238],643379713,637588766,EAX58869,643813819
+1090,4,VSAL_I2745 NADP-dependent malic enzyme [Aliivibrio salmonicida LFI1238],643381014,637584968,EAX56744,643814823
+1092,4,VSAL_I1138 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino) methylideneamino] imidazole-4-carboxamide isomerase (phosphoribosylformimino-5-aminoimidazole carboxamide ribotid isomerase) [Aliivibrio salmonicida LFI1238],643379517,637585796,EAX58404,643813301
+1093,4,VSAL_I1885 putative methyltransferase [Aliivibrio salmonicida LFI1238],643380186,637585819,EAX56728,643813327
+1094,4,VSAL_I2305 polar flagellum-specific ATP synthase FliI [Aliivibrio salmonicida LFI1238],643380583,637585635,EAX58990,643814256
+1095,4,VSAL_I1140 histidine biosynthesis bifunctional protein HisIE [includes: phosphoribosyl-AMP cyclohydrolase and phosphoribosyl-ATP pyrophosphatase] [Aliivibrio salmonicida LFI1238],643379519,637585794,EAX58389,643813303
+1097,4,VSAL_I0196 transcription elongation factor GreB [Aliivibrio salmonicida LFI1238],643378581,637584892,EAX59209,643814855
+1098,4,VSAL_I2515 CTP synthase [Aliivibrio salmonicida LFI1238],643380779,637587781,EAX56751,643814587
+1099,4,VSAL_I2542 ribose-5-phosphate isomerase A (phosphoriboisomerase A) [Aliivibrio salmonicida LFI1238],643380807,637587822,EAX57519,643814618
+1101,4,VSAL_I1846 hypothetical protein [Aliivibrio salmonicida LFI1238],643380145,637586231,EAX56664,643813371
+1102,4,VSAL_I2595 aconitate hydratase 2 (citrate hydro-lyase 2) [Aliivibrio salmonicida LFI1238],643380863,637587891,EAX57163,643812764
+1104,4,VSAL_I1687 aspartate aminotransferase [Aliivibrio salmonicida LFI1238],643380010,637587045,EAX59261,643813459
+1105,4,VSAL_I2580 ABC-type [(GlcNAc)2] transporter ATP-binding protein [Aliivibrio salmonicida LFI1238],643380848,637585230,EAX57891,643812776
+1106,4,VSAL_I0502 3-deoxy-d-manno-octulosonate 8-phosphate phosphatase [Aliivibrio salmonicida LFI1238],643378882,637587951,EAX56910,643814669
+1110,4,VSAL_I0990 leucyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643379378,637587586,EAX57265,643813120
+1111,4,VSAL_I0344 RNA polymerase alpha-subunit [Aliivibrio salmonicida LFI1238],643378722,637585054,EAX56569,643814714
+1113,4,VSAL_I2228 uridine kinase (uridine monophosphokinase) (cytidin monophosphokinase) [Aliivibrio salmonicida LFI1238],643380510,637585879,EAX58457,643813202
+1114,4,VSAL_I2577 ABC-type [(GlcNAc)2] transporter permease protein [Aliivibrio salmonicida LFI1238],643380845,637585233,EAX57899,643812779
+1120,4,VSAL_I2501 nucleoside transport protein (nucleoside permease NupC) [Aliivibrio salmonicida LFI1238],643380765,637589780,EAX59093,643815295
+1122,4,VSAL_II0501 GMP reductase [Aliivibrio salmonicida LFI1238],643381793,637590038,EAX59095,643815313
+1123,4,VSAL_II0687 glucose-6-phosphate 1-dehydrogenase [Aliivibrio salmonicida LFI1238],643381965,637586151,EAX59387,643815958
+1125,4,VSAL_I0012 DNA gyrase subunit B [Aliivibrio salmonicida LFI1238],643378385,637584720,EAX58546,643812170
+1126,4,VSAL_I0504 sodium/calcium exchanger protein [Aliivibrio salmonicida LFI1238],643378884,637587949,EAX56903,643814667
+1128,4,VSAL_I1298 putative lipoprotein [Aliivibrio salmonicida LFI1238],643379661,637587103,EAX58507,643814022
+1129,4,VSAL_I1370 ribose transport system permease protein RbsC [Aliivibrio salmonicida LFI1238],643379726,637589880,EAX58933,643815247
+1131,4,VSAL_I2754 phosphoenolpyruvate carboxylase [Aliivibrio salmonicida LFI1238],643381023,637584974,EAX57907,643814788
+1132,4,VSAL_I2258 ferrous iron transport protein FeoB [Aliivibrio salmonicida LFI1238],643380539,637585768,EAX58886,643814204
+1134,4,VSAL_II0582 L-allo-threonine aldolase [Aliivibrio salmonicida LFI1238],643381869,637589118,EAX57411,643815828
+1136,4,VSAL_I2062 FAD linked oxidase [Aliivibrio salmonicida LFI1238],643380349,637586003,EAX58033,643813361
+1139,4,VSAL_I0334 30S ribosomal protein S8 [Aliivibrio salmonicida LFI1238],643378711,637585043,EAX56648,643814725
+1140,4,VSAL_I2524 GTP-binding protein era [Aliivibrio salmonicida LFI1238],643380788,637587789,EAX57290,643814599
+1142,4,VSAL_I1880 molybdopterin-converting factor subunit 2 [Aliivibrio salmonicida LFI1238],643380181,637585836,EAX58438,643813192
+1143,4,VSAL_I1093 integral membrane protein [Aliivibrio salmonicida LFI1238],643379479,637586397,EAX58785,643816071
+1144,4,VSAL_I2846 DNA-binding protein HU-alpha [Aliivibrio salmonicida LFI1238],643381123,637588120,EAX59489,643812424
+1145,4,VSAL_II0791 anaerobic ribonucleoside-triphosphate reductase [Aliivibrio salmonicida LFI1238],643382060,637588754,EAX59305,643815573
+1146,4,VSAL_I0496 nitrogen regulatory IIA protein PTS system [Aliivibrio salmonicida LFI1238],643378876,637587957,EAX56794,643814675
+1147,4,VSAL_I0147 thioredoxin 1 [Aliivibrio salmonicida LFI1238],643378538,637588239,EAX57228,643812457
+1150,4,VSAL_I2868 50S ribosomal subunit protein L10 [Aliivibrio salmonicida LFI1238],643381141,637588132,EAX57281,643812485
+1152,4,VSAL_I1234 sodium-dependent nucleoside transport protein [Aliivibrio salmonicida LFI1238],643379607,637586718,EAX58004,643814082
+1155,4,VSAL_I0924 34-dihydroxy-2-butanone 4-phosphate synthase (GTP cyclohydrolase II) (riboflavin biosynthesis protein RibBA) [Aliivibrio salmonicida LFI1238],643379318,637585508,EAX59622,643814411
+1156,4,VSAL_I0632 DNA mismatch repair protein MutS [Aliivibrio salmonicida LFI1238],643379019,637587771,EAX57572,643812689
+1157,4,VSAL_I2054 general L-amino acid transport ATP-binding subunit [Aliivibrio salmonicida LFI1238],643380341,637586892,EAX57840,643813525
+1159,4,VSAL_I2365 cytochrome C-type protein NapB precursor [Aliivibrio salmonicida LFI1238],643380637,637585563,EAX60229,643815739
+1164,4,VSAL_I2382 membrane protein [Aliivibrio salmonicida LFI1238],643380653,637587602,EAX58994,643814288
+1165,4,VSAL_I1079 colicin V production protein (protein DedE) [Aliivibrio salmonicida LFI1238],643379466,637587350,EAX58472,643813167
+1168,4,VSAL_I2393 phosphoheptose isomerase [Aliivibrio salmonicida LFI1238],643380664,637587614,EAX59541,643814372
+1169,4,VSAL_I1770 ribonucleoside-diphosphate reductase 1 beta chain [Aliivibrio salmonicida LFI1238],643380079,637587161,EAX57522,643813422
+1172,4,VSAL_I0490 protein TldD [Aliivibrio salmonicida LFI1238],643378870,637587963,EAX57498,643812594
+1174,4,VSAL_I2988 thiamine biosynthesis protein ThiH [Aliivibrio salmonicida LFI1238],643381265,637584819,EAX58169,643812226
+1175,4,VSAL_I2212 cold shock-like protein CspD [Aliivibrio salmonicida LFI1238],643380495,637585859,EAX58415,643813306
+1176,4,VSAL_I2206 putative sporulation protein [Aliivibrio salmonicida LFI1238],643380488,637587308,EAX58528,643814001
+1177,4,VSAL_I1087 recombination protein RecR [Aliivibrio salmonicida LFI1238],643379474,637585728,EAX58776,643813220
+1178,4,VSAL_I2656 DnaA initiator-associating protein DiaA [Aliivibrio salmonicida LFI1238],643380926,637587929,EAX57239,643812741
+1182,4,VSAL_II0737 membrane protein [Aliivibrio salmonicida LFI1238],643382011,637587091,EAX58514,643814008
+1185,4,VSAL_I2379 dihydrodipicolinate synthase [Aliivibrio salmonicida LFI1238],643380650,637587599,EAX59041,643814283
+1186,4,VSAL_II0727 chromosome partition protein MukB [Aliivibrio salmonicida LFI1238],643382001,637587080,EAX58844,643813860
+1188,4,VSAL_I1584 spermidine/putrescine-binding periplasmic protein precursor (SPBP) [Aliivibrio salmonicida LFI1238],643379916,637586563,EAX57348,643813591
+1189,4,VSAL_I0663 outer membrane protein [Aliivibrio salmonicida LFI1238],643379057,637587723,EAX58083,643812869
+1190,4,VSAL_I0739 putative ion transporter [Aliivibrio salmonicida LFI1238],643379139,637585491,EAX60078,643813025
+1194,4,VSAL_I0046 putative ferredoxin [Aliivibrio salmonicida LFI1238],643378415,637588285,EAX58575,643812191
+1195,4,VSAL_I2746 Met repressor (Met regulon regulatory protein MetJ) [Aliivibrio salmonicida LFI1238],643381015,637584969,EAX56743,643814824
+1196,4,VSAL_I0762 sodium-dependent transporter [Aliivibrio salmonicida LFI1238],643379161,637587650,EAX59616,643814425
+1198,4,VSAL_I2579 ABC-type [(GlcNAc)2] transporter ATP-binding protein [Aliivibrio salmonicida LFI1238],643380847,637585231,EAX57885,643812777
+1199,4,VSAL_I2628 nicotinate-nucleotide pyrophosphorylase [Aliivibrio salmonicida LFI1238],643380899,637587899,EAX58216,643814561
+1200,4,VSAL_II0397 anaerobic glycerol-3-phosphate dehydrogenase subunit A [Aliivibrio salmonicida LFI1238],643381692,637586081,EAX60257,643815808
+1204,4,VSAL_I2762 510-methylenetetrahydrofolate reductase [Aliivibrio salmonicida LFI1238],643381031,637584972,EAX56622,643814827
+1206,4,VSAL_I0730 histidyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643379130,637585473,EAX56887,643812925
+1207,4,VSAL_I2725 DNA adenine methylase [Aliivibrio salmonicida LFI1238],643380994,637584992,EAX57734,643814768
+1208,4,VSAL_I2887 tRNA (uracil-5)-methyltransferase [Aliivibrio salmonicida LFI1238],643381167,637588163,EAX56626,643812313
+1209,4,VSAL_I0726 hypothetical protein [Aliivibrio salmonicida LFI1238],643379126,637585469,EAX56891,643812922
+1210,4,VSAL_I1933 GTP cyclohydrolase I [Aliivibrio salmonicida LFI1238],643380231,637586715,EAX58381,643815676
+1211,4,VSAL_I2911 hypothetical protein [Aliivibrio salmonicida LFI1238],643381190,637584886,EAX59191,643814860
+1212,4,VSAL_I1147 probable intracellular septation protein [Aliivibrio salmonicida LFI1238],643379526,637587207,EAX58873,643813846
+1214,4,VSAL_I0075 peptide deformylase (polypeptide deformylase) [Aliivibrio salmonicida LFI1238],643378438,637588276,EAX58585,643812201
+1215,4,VSAL_I2156 24-dienoyl-CoA reductase [NADPH] [Aliivibrio salmonicida LFI1238],643380442,637587295,EAX56830,643814119
+1216,4,VSAL_I0339 50S ribosomal protein L15 [Aliivibrio salmonicida LFI1238],643378716,637585048,EAX56570,643814720
+1217,4,VSAL_I1544 tail-specific protease precursor [Aliivibrio salmonicida LFI1238],643379878,637586628,EAX57690,643813650
+1219,4,VSAL_I2537 putative monooxygenase [Aliivibrio salmonicida LFI1238],643380801,637587817,EAX57304,643814613
+1220,4,VSAL_II0616 HTH-type transcriptional regulator LuxT [Aliivibrio salmonicida LFI1238],643381902,637588824,EAX59138,643815979
+1222,4,VSAL_I0841 citrate synthase [Aliivibrio salmonicida LFI1238],643379245,637585752,EAX58924,643814219
+1223,4,VSAL_I0008 putative amino acid ABC transportersubstrate-binding protein [Aliivibrio salmonicida LFI1238],643378381,637584716,EAX56857,643812165
+1225,4,VSAL_I2268 3-ketoacyl-CoA thiolase (fatty acid oxidation complex subunit beta) (beta-ketothiolase) (acetyl-CoA acyltransferase) [Aliivibrio salmonicida LFI1238],643380546,637585670,EAX58452,643813210
+1227,4,VSAL_I2728 tryptophanyl-tRNA synthetase [Aliivibrio salmonicida LFI1238],643380997,637584995,EAX57749,643814765
+1228,4,VSAL_I1796 sodium/alanine symporter [Aliivibrio salmonicida LFI1238],643380103,637586837,EAX57338,643813588
+1230,4,VSAL_I2500 anaerobic C4-dicarboxylate transporter DcuB [Aliivibrio salmonicida LFI1238],643380764,637585887,EAX59097,643815320
+1231,4,VSAL_I2276 cytochrome c-type biogenesis protein CcmF [Aliivibrio salmonicida LFI1238],643380554,637585661,EAX58911,643814180
+1235,4,VSAL_I2987 thiamine biosynthesis protein ThiG [Aliivibrio salmonicida LFI1238],643381264,637584818,EAX58172,643812225
+1236,4,VSAL_I1891 cytochrome d ubiquinol oxidase subunit II [Aliivibrio salmonicida LFI1238],643380192,637587258,EAX56970,643813970
+1237,4,VSAL_I1843 hypothetical protein [Aliivibrio salmonicida LFI1238],643380142,637585873,EAX57028,643813272
+1238,4,VSAL_II0956 putative cytidine and deoxycytidylate deaminase [Aliivibrio salmonicida LFI1238],643382214,637589341,EAX57679,643815902
+1239,4,VSAL_I2456 histidine kinase PhoR (phosphate regulon sensor protein) [Aliivibrio salmonicida LFI1238],643380725,637585431,EAX57383,643812885
+1243,4,VSAL_I2209 FolD bifunctional protein (includes: methylenetetrahydrofolate dehydrogenase; methenyltetrahydrofolate cyclohydrolase) [Aliivibrio salmonicida LFI1238],643380491,637587342,EAX58020,643814071
+1244,4,VSAL_I0292 regulator of ribonuclease activity A [Aliivibrio salmonicida LFI1238],643378671,637584960,EAX57368,643814814
+1245,4,VSAL_II0578 trehalose-6-phosphate hydrolase [Aliivibrio salmonicida LFI1238],643381865,637585934,EAX57716,643813072
+1246,4,VSAL_I1884 putative methyltransferase [Aliivibrio salmonicida LFI1238],643380185,637585818,EAX56599,643813326
+1248,4,VSAL_I1946 oligopeptide transport system permease protein B [Aliivibrio salmonicida LFI1238],643380242,637585840,EAX58755,643813255
+1249,4,VSAL_I2833 acetyl-coenzyme A synthetase [Aliivibrio salmonicida LFI1238],643381110,637588101,EAX57227,643812449
+1250,4,VSAL_I0298 ABC transporter ATP-binding protein [Aliivibrio salmonicida LFI1238],643378677,637585010,EAX57756,643814751
+1251,4,VSAL_I2806 aspartate ammonia-lyase(aspartase) [Aliivibrio salmonicida LFI1238],643381085,637588090,EAX59190,643814840
+1256,4,VSAL_I0406 FKBP-type peptidyl-prolyl cis-trans isomerase [Aliivibrio salmonicida LFI1238],643378782,637588016,EAX56590,643814711
+1257,4,VSAL_II0707 urocanate hydratase [Aliivibrio salmonicida LFI1238],643381983,637586876,EAX56956,643813366
+1261,4,VSAL_I2183 hypothetical protein [Aliivibrio salmonicida LFI1238],643380466,637587469,EAX58513,643813998
+1262,4,VSAL_I0845 succinate dehydrogenase iron-sulfur protein [Aliivibrio salmonicida LFI1238],643379249,637585756,EAX58917,643814215
+1263,4,VSAL_I0323 50S ribosomal protein L2 [Aliivibrio salmonicida LFI1238],643378700,637585032,EAX56678,643814736
+1265,4,VSAL_I2291 flagellar biosynthesis protein FlhG (flagellar number regulator) [Aliivibrio salmonicida LFI1238],643380569,637585647,EAX58907,643814195
+1266,4,VSAL_I1862 ribonuclease T [Aliivibrio salmonicida LFI1238],643380161,637587273,EAX58497,643813170
+1267,4,VSAL_I2548 putative amino-acid transporter [Aliivibrio salmonicida LFI1238],643380813,637585269,EAX57011,643814498
+1269,4,VSAL_I1564 mono-heme cytochrome c [Aliivibrio salmonicida LFI1238],643379896,637586539,EAX57817,643813608
+1270,4,VSAL_I2571 putative iron-sulphur cluster biosynthesis protein [Aliivibrio salmonicida LFI1238],643380840,637585240,EAX57895,643812787
+1271,4,VSAL_I2451 phosphate transport system regulatory protein PhoU [Aliivibrio salmonicida LFI1238],643380720,637585440,EAX57382,643812892
+1272,4,VSAL_I2912 protein CysQ [Aliivibrio salmonicida LFI1238],643381191,637588167,EAX59231,643814862
+1273,4,VSAL_I0533 probable Fe(2+) trafficking protein [Aliivibrio salmonicida LFI1238],643378919,637587855,EAX57550,643812631
+1274,4,VSAL_I0207 ribonuclease PH [Aliivibrio salmonicida LFI1238],643378590,637584907,EAX58271,643812368
+1275,4,VSAL_II1080 membrane protein [Aliivibrio salmonicida LFI1238],643382320,637584767,EAX58564,643812177
+1423,4,VSAL_I2889 HTH-type transcriptional regulator TetR-family [Aliivibrio salmonicida LFI1238],643381169,637588165,EAX56520,643812311

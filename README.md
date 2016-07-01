@@ -229,6 +229,10 @@ the phylogeny, is used.
 8. A CSV (comma-separated value) file is written containing the following
 fields for each family: family identifier, maximum number of amino acid
 differences from the consensus sequence, dN and dS.
+The file is named *[prefix].csv*, where *[prefix]* is the first
+argument supplied to the script.
+(Numerous intermediate directories and files are also created, which
+can be ignored.)
 
 **Note:** The script *doKaKsAnalysis.sh* is designed to be run with
 families of size four or bigger.
@@ -247,6 +251,56 @@ run it.
 an input file for PHYLIP's PARS program.
 See the comments at the top of the script for directions on how to
 run it.
+
+SAMPLE RUN
+--
+
+The *sample-run* directory contains input data and output data from
+a sample run.
+The *proteins* and *nuc* subdirectories contain the amino acid and
+nucleotide sequences, respectively, for four bacteria genomes.
+The *genome-order* file contains the names of the four genomes.
+The *genome-abbrev* file contains the abbreviated (10 or fewer
+characters) names of the four genomes, required by PARS.
+These are the necesary input files.
+
+The following sequence of commands was executed:
+```
+mkdir blast
+cd blast
+touch DONE
+cd ..
+doPairwiseBlasts.pl proteins blast 1.0 4 ~/mf.c4 Aliivibrio-salmonicida-LFI1238 Photobacterium-profundum-SS9 Vibrio-cholerae-2740-80 Vibrio-cholerae-M66-2
+doAllGenomesAtOnceLeratAnalysis.pl -lerat .7 -reciprocal blast point7 -all
+mkdir KaKs-point7-panorthologs
+cd KaKs-point7-panorthologs
+cp ../point7/point7.panorthologs .
+doKaKsAnalysis.sh point7 panorthologs ../genome-order
+cd ..
+mkdir annotate
+cd annotate
+annotateFamilies2.pl ../point7/point7.panorthologs ../genome-order ../proteins annotated-point7-panorthologs
+cd ..
+mkdir PARS-input
+cd PARS-input
+createPhylipParsInput.pl ../point7/point7.orthologs ../genome-order ../genome-abbrev point7-orthologs-PARS-input
+cd ..
+```
+
+This generates the results of the family analysis on the four genomes using
+a .7 scaled bitscale threshold into the *point7* subdirectory.
+
+The evolutionary rate estimates for the .7 panortholog families
+are generated into the *KaKs-point7-panorthologs* subdirectory.
+
+The annotated .7 panortholog families are generated into the
+*annotate* subdirectory.
+
+A PARS input for the .7 ortholog families is generated into the
+*PARS-input* subdirectory.
+
+**Note**: Numerous generated intermediate files and subdirectories have
+been deleted.
 
 CONTRIBUTORS
 --
