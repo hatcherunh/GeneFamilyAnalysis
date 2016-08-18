@@ -87,9 +87,9 @@ The identifier for a gene should be the same in the amino acid file
 and in the nucleotide file.
 
 Place all the amino acid sequence files in a directory called
-*proteins".
+*proteins*.
 Place all the nucleotide sequence files in a directory called
-*nuc".
+*nuc*.
 
 **Doing the BLASTs**
 
